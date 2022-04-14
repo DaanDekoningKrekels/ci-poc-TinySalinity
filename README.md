@@ -1,5 +1,6 @@
 # Salinity Sensor
 
+This sensor reports the relative change in salinity (conductivity) of water.
 
 The salinity sensor probe exists out of two electrodes who are positioned with a certain distance between each other. With the electrodes under water there will be flowing a certain amount of current. When there is more salt, the resistance of the water will be lower so more current will flow though.
 
