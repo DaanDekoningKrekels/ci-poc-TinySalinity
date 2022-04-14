@@ -1,4 +1,4 @@
-# TinySensor MCU
+# TinySalinity MCU
 
 The Atmel ATTiny 85 microcontroller will read the value of the sensor and send it to the main microcontroller via I²C. The main MCU can send this data to a server for example.
 
