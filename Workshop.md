@@ -68,7 +68,7 @@ style: |
 2. Select the correct COM port under "`Tools` > `Port`"
 3. Choose an example program in "`File` > `Examples` > `Examples for DOIT ESP32 DEVKIT V1` > `WiFi` > `WiFiScan`" 
 4. Program the code to the ESP32 with the Upload button (&#10145;)
-5. Open the Serial Monitor via "`Tools` > `Serial Monitor`" and set the Baud-rate to 115200 baud
+5. Open the Serial Monitor via "`Tools` > `Serial Monitor`" and set the Baud-rate to "115200 baud"
 6. If you can see the nearby WiFi networks everything is working!
 
 
@@ -97,3 +97,47 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
 
 ---
 
+## I<sup>2</sup>C
+
+- I<sup>2</sup>C = Inter-Integrated Circuit
+- Invented in 1982 by Philips 
+- SDA = Serial Data Line
+- SCL = Serial Clock Line
+
+![bg right fit I2C example connection](./assets/I2C_controller-target.svg)
+
+---
+
+![bg fit 98% Salinity Sensor connected to ESP32](./assets/SalinitySensorToESP32.png)
+
+---
+
+## Reading the Sensor
+
+```C++
+void setup() {
+  // put your setup code here, to run once:
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
+```
+
+---
+
+## Reading the Sensor
+
+```C++
+void setup() {
+  Serial.begin(115200); // Open the serial port at 9600 baud
+}
+
+/* Send "Hello world!" via serial every second. */
+void loop() {
+  Serial.println("Hello world!"); // Send text over the serial port
+  delay(1000); // Wait 1000ms or 1s
+}
+```
