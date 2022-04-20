@@ -6,29 +6,29 @@ marp: true
 title: Internet of Things Workshop
 theme: gaia
 paginate: true
-style: |
+style: | 
   section {
-    background-image: url("./assets/bg.svg");
     background-color: #fcf8ed;
   }
 -->
 
 # Internet of Things Workshop
 
-## Salinity Sensor
+## Salinity Sensor Prototype
 ## ESP32 & I<sup>2</sup>C
 
+![bg](assets/bg.svg)
 
 ---
 
 ## Salinity Sensor
 
 ![bg 90% Salinity Sensor photo](assets/SalinitySensorPhoto.png)
-![bg 95% Salinity Sensor scheme](assets/Scheme-full.svg)
 ![bg 90% Salinity Sensor photo](assets/SalinitySensorPhoto_back.png)
 
 
 ---
+
 ## Salinity Sensor
 
 ![bg 95% Salinity Sensor scheme](assets/Scheme-full.svg)
@@ -40,6 +40,37 @@ style: |
 
 <img alt="Vout=(R10/R7)*(V2-V1)" style="float:right" src="https://render.githubusercontent.com/render/math?math=V_%7Bout%7D=%5Cfrac%7BR_10%7D%7BR_7%7D(V_2-V_1)%20"/>
 
+
+---
+
+## Wheatstone bridge
+
+![bg right 95% Wheatstone bridge scheme](./assets/Scheme-Wheatstone-bridge.svg)
+
+- Two voltage dividers
+- <img alt="Vout=(R4/R3R4)*Vin" height="40" src="https://render.githubusercontent.com/render/math?math=V_%7Bout%7D=%7B%5Cfrac%7BR_%7B4%7D%7D%7BR_%7B3%7D&plus;R_%7B4%7D%7D%7D%5Ccdot%20V_%7Bin%7D"/>
+- Only enabled when needed
+
+---
+
+## Amplifier
+
+![bg right 95% Amplifier scheme](./assets/Scheme-OPAMP.svg)
+
+- Voltage followers
+  - Stable reading
+- Differnetial amplifier
+  - <img alt="Vout=(R10/R7)*(V2-V1)" height="40" src="https://render.githubusercontent.com/render/math?math=V_%7Bout%7D=%5Cfrac%7BR_10%7D%7BR_7%7D(V_2-V_1)%20"/>
+
+---
+
+## ATtiny
+
+![bg right 95% ATtiny scheme](./assets/Scheme-ATtiny.svg)
+
+- Reads Amplifier Output
+- Moving Average Filter
+- Sends Reading Over I<sup>2</sup>C
 
 ---
 
@@ -81,7 +112,7 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
 ## Soldering the Salinity Sensor
 
 ![bg 95% Salinity Sensor photo](assets/SalinitySensorPhoto.png)
-![bg 95% Salinity Sensor photo](assets/SalinitySensorPhoto_back.png)
+![bg 95% Salinity Sensor photo](assets/SalinitySensorPhoto_back_traced.png)
 
 
 ---
@@ -103,6 +134,7 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
 - Invented in 1982 by Philips 
 - SDA = Serial Data Line
 - SCL = Serial Clock Line
+- Every target has his own address
 
 ![bg right fit I2C example connection](./assets/I2C_controller-target.svg)
 
