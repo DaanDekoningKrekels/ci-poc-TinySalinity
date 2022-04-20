@@ -140,8 +140,8 @@
       <alpha>127</alpha>
       <points>
         <point x="2.1" y="0.7"/>
-        <point x="2.3" y="0.7"/>
-        <point x="2.2" y="0.7"/>
+        <point x="2.4" y="0.7"/>
+        <point x="2.2500000000000004" y="0.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1127,6 +1127,50 @@
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
     </diylc.connectivity.CopperTrace>
+    <diylc.misc.Label>
+      <name>L1</name>
+      <point x="2.4" y="0.7"/>
+      <text>5V</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="ff0000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L2</name>
+      <point x="2.4" y="0.8"/>
+      <text>SCL</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="009933"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L3</name>
+      <point x="2.4" y="0.9"/>
+      <text>GND</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="0033ff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L4</name>
+      <point x="2.4" y="1.0"/>
+      <text>SDA</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="cc00cc"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
   </components>
   <groups/>
   <lockedLayers/>

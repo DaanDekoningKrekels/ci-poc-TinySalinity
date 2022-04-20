@@ -43,6 +43,16 @@ style: |
 
 ---
 
+## ESP32 DOIT V1
+
+- Microcontroller
+- Arduino + WiFi & Bluetooth
+- 30 pins
+
+![bg right fit ESP32 DOIT](./assets/ESP32-DOIT.png)
+
+---
+
 ## Setting up the Arduino IDE
 
 1. https://www.arduino.cc/en/software
@@ -58,7 +68,8 @@ style: |
 2. Select the correct COM port under "`Tools` > `Port`"
 3. Choose an example program in "`File` > `Examples` > `Examples for DOIT ESP32 DEVKIT V1` > `WiFi` > `WiFiScan`" 
 4. Program the code to the ESP32 with the Upload button (&#10145;)
-5. Open the Serial Monitor via "`Tools` > `Serial Monitor`" and 
+5. Open the Serial Monitor via "`Tools` > `Serial Monitor`" and set the Baud-rate to 115200 baud
+6. If you can see the nearby WiFi networks everything is working!
 
 
 <footer>
@@ -66,6 +77,8 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
 </footer>
 
 ---
+
+## Soldering the Salinity Sensor
 
 ![bg 95% Salinity Sensor photo](assets/SalinitySensorPhoto.png)
 ![bg 95% Salinity Sensor photo](assets/SalinitySensorPhoto_back.png)
@@ -75,7 +88,12 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
 
 ![bg 70% Component placement](assets/SalinitySensorComponentPlacement.png)
 
-
 ---
 
+
+# Connecting to the Salinity Sensor
+
+## Using I<sup>2</sup>C and an ESP32
+
+---
 

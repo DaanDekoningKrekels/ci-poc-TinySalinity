@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+  <fileVersion>
+    <major>4</major>
+    <minor>22</minor>
+    <build>2</build>
+  </fileVersion>
+  <title>SalinitySensorComponentPlacement</title>
+  <author>Daan Dekoning</author>
+  <width value="100.0" unit="mm"/>
+  <height value="48.26" unit="mm"/>
+  <gridSpacing value="0.01" unit="in"/>
+  <dotSpacing>1</dotSpacing>
+  <components>
+    <diylc.boards.PerfBoard>
+      <name>Board1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="0.0" y="0.0"/>
+        <point x="2.5" y="1.9"/>
+      </controlPoints>
+      <firstPoint x="0.0" y="0.0"/>
+      <secondPoint x="2.5" y="1.9"/>
+      <boardColor hex="f8ebb3"/>
+      <borderColor hex="ada47d"/>
+      <coordinateColor hex="b6b6b6"/>
+      <xType>Letters</xType>
+      <coordinateOrigin>Top_Left</coordinateOrigin>
+      <coordinateDisplay>One_Side</coordinateDisplay>
+      <yType>Numbers</yType>
+      <length value="63.49999999999999" unit="mm"/>
+      <width value="48.26" unit="mm"/>
+      <mode>TwoPoints</mode>
+      <spacing value="0.1" unit="in"/>
+      <padColor hex="da8a67"/>
+    </diylc.boards.PerfBoard>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace1</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.9" y="1.3"/>
+        <point x="0.9" y="1.2"/>
+        <point x="0.9" y="1.25"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace3</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.6" y="0.8"/>
+        <point x="0.6" y="0.7"/>
+        <point x="0.6" y="0.75"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace5</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.9" y="0.8"/>
+        <point x="0.9" y="0.7"/>
+        <point x="0.9" y="0.75"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace2</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.2" y="0.3"/>
+        <point x="2.1" y="0.3"/>
+        <point x="2.15" y="0.3"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace6</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.2" y="0.5"/>
+        <point x="2.1" y="0.5"/>
+        <point x="2.15" y="0.5"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace7</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.1" y="0.7"/>
+        <point x="2.4" y="0.7"/>
+        <point x="2.2500000000000004" y="0.7"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace8</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.4" y="1.0"/>
+        <point x="2.1" y="1.0"/>
+        <point x="2.25" y="1.0"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace9</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.4" y="0.8"/>
+        <point x="2.1" y="0.8"/>
+        <point x="2.25" y="0.8"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace10</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.3" y="0.9"/>
+        <point x="2.4" y="0.9"/>
+        <point x="2.35" y="0.9"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace11</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.8" y="1.0"/>
+        <point x="1.7" y="1.0"/>
+        <point x="1.75" y="1.0"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace12</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.8" y="0.9"/>
+        <point x="1.7" y="0.9"/>
+        <point x="1.75" y="0.9"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace13</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.8" y="0.8"/>
+        <point x="1.7" y="0.8"/>
+        <point x="1.75" y="0.8"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace14</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.4" y="0.5"/>
+        <point x="1.6" y="0.5"/>
+        <point x="1.5" y="0.5"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace15</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.2" y="0.4"/>
+        <point x="1.2" y="0.6"/>
+        <point x="1.2" y="0.5"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace16</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.0" y="1.1"/>
+        <point x="0.9" y="1.1"/>
+        <point x="0.95" y="1.1"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace17</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.9" y="1.0"/>
+        <point x="1.7" y="1.0"/>
+        <point x="1.3" y="1.0"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace18</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.0" y="0.9"/>
+        <point x="0.9" y="0.9"/>
+        <point x="0.95" y="0.9"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace19</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.9" y="0.8"/>
+        <point x="1.0" y="0.8"/>
+        <point x="0.95" y="0.8"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace20</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.6" y="1.3"/>
+        <point x="0.4" y="1.3"/>
+        <point x="0.5" y="1.3"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace21</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.6" y="1.2"/>
+        <point x="0.4" y="1.2"/>
+        <point x="0.5" y="1.2"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace22</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.6" y="0.8"/>
+        <point x="0.5" y="0.8"/>
+        <point x="0.55" y="0.8"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace23</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.4" y="1.1"/>
+        <point x="0.6" y="1.1"/>
+        <point x="0.5" y="1.1"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace24</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.2" y="0.6"/>
+        <point x="1.2" y="0.7"/>
+        <point x="1.2" y="0.65"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace26</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.3" y="0.3"/>
+        <point x="0.3" y="0.5"/>
+        <point x="0.3" y="0.4"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace27</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.6" y="1.0"/>
+        <point x="0.5" y="1.0"/>
+        <point x="0.55" y="1.0"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace28</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.7" y="0.3"/>
+        <point x="0.7" y="0.6"/>
+        <point x="0.7" y="0.45"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace29</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="0.8" y="0.3"/>
+        <point x="0.8" y="0.4"/>
+        <point x="0.8" y="0.35"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.Turret>
+      <name>Turret1</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="2.4" y="0.9"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret2</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="2.4" y="0.8"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret3</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="1.2" y="0.6"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret4</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="0.8" y="0.3"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret6</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="2.4" y="1.0"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret8</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="2.4" y="0.7"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret7</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="1.2" y="0.7"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret9</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="1.2" y="0.8"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret10</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="1.2" y="0.9"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret11</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="1.2" y="1.0"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.connectivity.Turret>
+      <name>Turret5</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="0.7" y="0.3"/>
+      <value></value>
+    </diylc.connectivity.Turret>
+    <diylc.passive.TrimmerPotentiometer>
+      <name>VR1</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="1.3" y="0.2"/>
+        <point x="1.2" y="0.4"/>
+        <point x="1.1" y="0.2"/>
+      </controlPoints>
+      <resistance value="10.0" unit="K"/>
+      <orientation>_90</orientation>
+      <taper>LIN</taper>
+      <bodyColor hex="ffffe0"/>
+      <borderColor hex="8e8e38"/>
+      <display>NAME</display>
+      <type>FLAT_SMALL</type>
+    </diylc.passive.TrimmerPotentiometer>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC1</name>
+      <alpha>127</alpha>
+      <value>OPAMP</value>
+      <orientation>DEFAULT</orientation>
+      <pinCount>_14</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="0.6" y="0.7"/>
+        <point x="0.6" y="0.8"/>
+        <point x="0.6" y="0.9"/>
+        <point x="0.6" y="1.0"/>
+        <point x="0.6" y="1.1"/>
+        <point x="0.6" y="1.2"/>
+        <point x="0.6" y="1.3"/>
+        <point x="0.9" y="0.7"/>
+        <point x="0.9" y="0.8"/>
+        <point x="0.9" y="0.9"/>
+        <point x="0.9" y="1.0"/>
+        <point x="0.9" y="1.1"/>
+        <point x="0.9" y="1.2"/>
+        <point x="0.9" y="1.3"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>DIP</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.passive.Resistor>
+      <name>R1</name>
+      <alpha>127</alpha>
+      <length value="0.35" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="0.7" y="0.4"/>
+        <point x="0.3" y="0.4"/>
+        <point x="0.5" y="0.4"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="10.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R2</name>
+      <alpha>127</alpha>
+      <length value="0.35" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="1.0" y="0.5"/>
+        <point x="0.3" y="0.5"/>
+        <point x="0.65" y="0.5"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="10.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R3</name>
+      <alpha>127</alpha>
+      <length value="0.35" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="0.5" y="0.8"/>
+        <point x="0.4" y="1.2"/>
+        <point x="0.45" y="1.0"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="100.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R4</name>
+      <alpha>127</alpha>
+      <length value="0.35" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="0.5" y="1.2"/>
+        <point x="0.4" y="1.3"/>
+        <point x="0.45" y="1.25"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="470.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R5</name>
+      <alpha>127</alpha>
+      <length value="0.35" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="0.4" y="1.1"/>
+        <point x="1.0" y="1.0"/>
+        <point x="0.7" y="1.05"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="470.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R6</name>
+      <alpha>127</alpha>
+      <length value="0.35" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="0.5" y="1.1"/>
+        <point x="1.0" y="0.8"/>
+        <point x="0.75" y="0.95"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="100.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC2</name>
+      <alpha>127</alpha>
+      <value>ATTiny</value>
+      <orientation>DEFAULT</orientation>
+      <pinCount>_8</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="1.8" y="0.7"/>
+        <point x="1.8" y="0.7999999999999988"/>
+        <point x="1.8" y="0.9"/>
+        <point x="1.8" y="1.0"/>
+        <point x="2.0999999999999988" y="0.7"/>
+        <point x="2.0999999999999988" y="0.7999999999999988"/>
+        <point x="2.0999999999999988" y="0.9"/>
+        <point x="2.0999999999999988" y="1.0"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>DIP</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.TransistorTO92>
+      <name>Q1</name>
+      <alpha>100</alpha>
+      <value></value>
+      <pinout>MOSFET_DSG</pinout>
+      <orientation>DEFAULT</orientation>
+      <controlPoints>
+        <point x="2.2" y="0.3"/>
+        <point x="2.2" y="0.5"/>
+        <point x="2.2" y="0.7"/>
+      </controlPoints>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="000000"/>
+      <display>NAME</display>
+      <folded>false</folded>
+      <pinSpacing value="0.2" unit="in"/>
+    </diylc.semiconductors.TransistorTO92>
+    <diylc.passive.Resistor>
+      <name>R7</name>
+      <alpha>127</alpha>
+      <length value="0.4" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="1.4" y="0.5"/>
+        <point x="1.4" y="1.0"/>
+        <point x="1.4" y="0.75"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="22.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R8</name>
+      <alpha>127</alpha>
+      <length value="0.35" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="2.1" y="0.5"/>
+        <point x="1.6" y="0.5"/>
+        <point x="1.85" y="0.5"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="1.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.connectivity.HookupWire>
+      <name>W13</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.1" y="0.5"/>
+        <point x="1.1" y="0.7"/>
+        <point x="1.1" y="0.9"/>
+        <point x="1.0" y="0.9"/>
+      </controlPoints2>
+      <color hex="ff9900"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W1</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.0" y="1.3"/>
+        <point x="1.7" y="1.3"/>
+        <point x="1.6" y="1.0"/>
+        <point x="1.7" y="0.8"/>
+      </controlPoints2>
+      <color hex="cc6600"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W8</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="2.3" y="0.7"/>
+        <point x="2.5" y="-0.4"/>
+        <point x="-1.0" y="0.0"/>
+        <point x="0.5" y="1.0"/>
+      </controlPoints2>
+      <color hex="ff0000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W10</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.7" y="1.0"/>
+        <point x="1.8" y="1.1"/>
+        <point x="2.2" y="1.2"/>
+        <point x="2.3" y="0.9"/>
+      </controlPoints2>
+      <color hex="0000ff"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W2</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="2.1" y="0.3"/>
+        <point x="2.0" y="0.3"/>
+        <point x="1.6" y="-0.2"/>
+        <point x="0.3" y="0.3"/>
+      </controlPoints2>
+      <color hex="999999"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W5</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.1" y="1.0"/>
+        <point x="1.2" y="0.4"/>
+        <point x="1.0" y="0.4"/>
+        <point x="0.8" y="0.4"/>
+      </controlPoints2>
+      <color hex="0000ff"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W4</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.5" y="0.5"/>
+        <point x="1.5" y="0.8"/>
+        <point x="1.6" y="0.8"/>
+        <point x="1.7" y="0.9"/>
+      </controlPoints2>
+      <color hex="ffff00"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W6</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="0.5" y="1.3"/>
+        <point x="0.6" y="1.4"/>
+        <point x="1.0" y="1.499999999999999"/>
+        <point x="1.0" y="1.1"/>
+      </controlPoints2>
+      <color hex="00cccc"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W3</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="0.6" y="0.9"/>
+        <point x="0.5" y="0.8"/>
+        <point x="0.6" y="0.6"/>
+        <point x="0.7" y="0.6"/>
+      </controlPoints2>
+      <color hex="999999"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace25</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.1" y="0.2"/>
+        <point x="1.1" y="0.5"/>
+        <point x="1.1" y="0.35"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.misc.SVGImage>
+      <name>Svg1</name>
+      <alpha>127</alpha>
+      <point x="2.8" y="0.0"/>
+      <orientation>DEFAULT</orientation>
+      <data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjM2LjI4cHQiIGhlaWdodD0iNDI3LjYycHQiIHZlcnNpb249IjEuMiIgdmlld0JveD0iMCAwIDIzNi4yOCA0MjcuNjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogPGRlZnM+CiAgPHN5bWJvbCBpZD0iZ2x5cGgwLTEiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTIuMDE1Ni00LjA0NjljLTAuMTg3NSAwLTAuMjUgMC4wNjI1LTAuMjUgMC4yNXYwLjU5Mzc1YzAgMC4xNzE4OCAwLjA2MjUgMC4yNSAwLjI1IDAuMjVoMC43NjU2MmMwLjY3MTg4IDAgMC45ODQzOCAwLjIxODc1IDAuOTg0MzggMC43MTg3NXYwLjVjMCAwLjQ4NDM4LTAuMzI4MTIgMC43MzQzOC0wLjk4NDM4IDAuNzM0MzhzLTEtMC4yNS0xLTAuNzM0Mzh2LTAuMTQwNjJjMC0wLjE3MTg4LTAuMDYyNS0wLjI1LTAuMjM0MzgtMC4yNWgtMC44NDM3NWMtMC4xNzE4OCAwLTAuMjM0MzggMC4wNzgxMjUtMC4yMzQzOCAwLjI1djAuMzI4MTJjMCAwLjg0Mzc1IDAuNTMxMjUgMS42MjUgMi4zMjgxIDEuNjI1IDEuNzY1NiAwIDIuMjk2OS0wLjc2NTYyIDIuMjk2OS0xLjU5Mzh2LTAuODkwNjJjMC0wLjUtMC4yMTg3NS0wLjkwNjI1LTAuODQzNzUtMS4xNDA2IDAuNTYyNS0wLjE4NzUgMC43NS0wLjUxNTYyIDAuNzUtMS4wMzEydi0wLjcxODc1YzAtMC44MjgxMi0wLjQ1MzEyLTEuNTc4MS0yLjIzNDQtMS41Nzgxcy0yLjI1IDAuNzgxMjUtMi4yNSAxLjYyNXYwLjMxMjVjMCAwLjE3MTg4IDAuMDQ2ODc1IDAuMjUgMC4yMzQzOCAwLjI1aDAuODI4MTJjMC4xODc1IDAgMC4yNS0wLjA3ODEyNSAwLjI1LTAuMjV2LTAuMTI1YzAtMC40ODQzOCAwLjI2NTYyLTAuNzM0MzggMC45Mzc1LTAuNzM0MzggMC42NDA2MiAwIDAuOTA2MjUgMC4yNSAwLjkwNjI1IDAuNzM0Mzh2MC4yODEyNWMwIDAuNS0wLjMxMjUgMC43MzQzOC0wLjk4NDM4IDAuNzM0Mzh6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgwLTkiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTAuNTQ2ODgtMS41NDY5YzAgMC44NDM3NSAwLjUxNTYyIDEuNjI1IDIuMjY1NiAxLjYyNXMyLjI4MTItMC43ODEyNSAyLjI4MTItMS42MjV2LTAuOTY4NzVjMC0wLjg0Mzc1LTAuNTYyNS0xLjY0MDYtMi4wOTM4LTEuNjQwNi0wLjQ4NDM4IDAtMC44NTkzOCAwLjEyNS0xLjEyNSAwLjMxMjV2LTEuMjE4OGMwLTAuNDg0MzggMC4yODEyNS0wLjczNDM4IDAuOTIxODgtMC43MzQzOCAwLjY1NjI1IDAgMC45MDYyNSAwLjI1IDAuOTA2MjUgMC43MzQzOHYwLjA2MjVjMCAwLjE4NzUgMC4wNjI1IDAuMjUgMC4yMzQzOCAwLjI1aDAuODI4MTJjMC4xODc1IDAgMC4yNS0wLjA2MjUgMC4yNS0wLjI1di0wLjI2NTYyYzAtMC43OTY4OC0wLjQ2ODc1LTEuNjA5NC0yLjIxODgtMS42MDk0LTEuNzM0NCAwLTIuMjUgMC44MTI1LTIuMjUgMS42MDk0em0zLjIwMzEtMC4yMDMxMmMwIDAuNS0wLjI4MTI1IDAuNzUtMC45Mzc1IDAuNzVzLTAuOTM3NS0wLjI1LTAuOTM3NS0wLjc1di0wLjY0MDYyYzAtMC40Mzc1IDAuMzEyNS0wLjY3MTg4IDAuOTM3NS0wLjY3MTg4IDAuNjU2MjUgMCAwLjkzNzUgMC4yMzQzOCAwLjkzNzUgMC43MzQzOHoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDAtMTAiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTAuNjcxODgtNi43OTY5Yy0wLjE3MTg4IDAtMC4yNSAwLjA2MjUtMC4yNSAwLjIzNDM4djAuNjI1YzAgMC4xODc1IDAuMDc4MTI1IDAuMjUgMC4yNSAwLjI1aDMuMDYyNWwtMi40MDYyIDUuNDIxOWMtMC4wNzgxMjUgMC4xODc1LTAuMDE1NjI1IDAuMjY1NjIgMC4xNzE4OCAwLjI2NTYyaDAuOTg0MzhjMC4xNzE4OCAwIDAuMjUtMC4xMjUgMC4zMTI1LTAuMjY1NjJsMi40MjE5LTUuNDg0NGMwLjAzMTI1LTAuMDYyNSAwLjA0Njg3NS0wLjEyNSAwLjA0Njg3NS0wLjIwMzEydi0wLjYwOTM4YzAtMC4xNzE4OC0wLjA3ODEyNS0wLjIzNDM4LTAuMjUtMC4yMzQzOHoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDAtMTEiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTAuNjU2MjUtNC41OTM4YzAgMC41IDAuMjE4NzUgMC44NTkzOCAwLjc1IDEuMDYyNS0wLjU5Mzc1IDAuMjE4NzUtMC44NTkzOCAwLjU3ODEyLTAuODU5MzggMS4wNzgxdjAuOTA2MjVjMCAwLjg0Mzc1IDAuNTE1NjIgMS42MjUgMi4yNjU2IDEuNjI1IDEuNzM0NCAwIDIuMjUtMC43ODEyNSAyLjI1LTEuNjI1di0wLjkwNjI1YzAtMC41LTAuMjY1NjItMC44NTkzOC0wLjg1OTM4LTEuMDc4MSAwLjUzMTI1LTAuMjAzMTIgMC43NS0wLjU2MjUgMC43NS0xLjA2MjV2LTAuNjU2MjVjMC0wLjg0Mzc1LTAuNDA2MjUtMS42MjUtMi4xNDA2LTEuNjI1LTEuNzUgMC0yLjE1NjIgMC43ODEyNS0yLjE1NjIgMS42MjV6bTMuMDc4MSAyLjg0MzhjMCAwLjUtMC4yODEyNSAwLjc1LTAuOTIxODggMC43NS0wLjY1NjI1IDAtMC45Mzc1LTAuMjUtMC45Mzc1LTAuNzV2LTAuNWMwLTAuNSAwLjI4MTI1LTAuNzM0MzggMC45Mzc1LTAuNzM0MzggMC42NDA2MiAwIDAuOTIxODggMC4yMzQzOCAwLjkyMTg4IDAuNzM0Mzh6bS0wLjA3ODEyNS0zLjA0NjljMCAwLjUtMC4yMTg3NSAwLjc1LTAuODQzNzUgMC43NS0wLjY0MDYyIDAtMC44NDM3NS0wLjI1LTAuODQzNzUtMC43NXYtMC4yNWMwLTAuNSAwLjIwMzEyLTAuNzUgMC44NDM3NS0wLjc1IDAuNjI1IDAgMC44NDM3NSAwLjI1IDAuODQzNzUgMC43NXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDAtMTIiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTAuNDg0MzgtMS41NDY5YzAgMC44NDM3NSAwLjU3ODEyIDEuNjI1IDIuMzI4MSAxLjYyNSAxLjczNDQgMCAyLjMyODEtMC43ODEyNSAyLjMyODEtMS42MjV2LTMuNzAzMWMwLTAuODQzNzUtMC41OTM3NS0xLjYyNS0yLjMyODEtMS42MjUtMS43NSAwLTIuMzI4MSAwLjc4MTI1LTIuMzI4MSAxLjYyNXptMy4zMTI1LTAuMjVjMCAwLjUtMC4zNDM3NSAwLjc1LTAuOTg0MzggMC43NS0wLjY1NjI1IDAtMC45ODQzOC0wLjI1LTAuOTg0MzgtMC43NXYtMy4yMTg4YzAtMC41IDAuMzI4MTItMC43NSAwLjk4NDM4LTAuNzUgMC42NDA2MiAwIDAuOTg0MzggMC4yNSAwLjk4NDM4IDAuNzV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgwLTEzIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0wLjkwNjI1LTYuNDIxOWMtMC4xNTYyNSAwLjAzMTI1LTAuMjUgMC4xMDkzOC0wLjI1IDAuMjY1NjJ2MC42NzE4OGMwIDAuMTcxODggMC4wOTM3NSAwLjIzNDM4IDAuMjUgMC4yMDMxMmwxLjM1OTQtMC4yMzQzOHY0LjM5MDZoLTEuMzU5NGMtMC4xNzE4OCAwLTAuMjUgMC4wNjI1LTAuMjUgMC4yNXYwLjYyNWMwIDAuMTg3NSAwLjA3ODEyNSAwLjI1IDAuMjUgMC4yNWg0LjAxNTZjMC4xNzE4OCAwIDAuMjUtMC4wNjI1IDAuMjUtMC4yNXYtMC42MjVjMC0wLjE4NzUtMC4wNzgxMjUtMC4yNS0wLjI1LTAuMjVoLTEuMzEyNXYtNS41YzAtMC4yMzQzOC0wLjEyNS0wLjI2NTYyLTAuMjM0MzgtMC4yNXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDAtMTQiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTEtNi43OTY5Yy0wLjE3MTg4IDAtMC4yMzQzOCAwLjA3ODEyNS0wLjIzNDM4IDAuMjV2M2MwIDAuMTcxODggMC4wNjI1IDAuMjUgMC4yMzQzOCAwLjI1aDEuNzk2OWMwLjY1NjI1IDAgMC45Njg3NSAwLjI1IDAuOTY4NzUgMC43MDMxMnYwLjg1OTM4YzAgMC41LTAuMzEyNSAwLjc1LTAuOTY4NzUgMC43NS0wLjY3MTg4IDAtMC45ODQzOC0wLjI1LTAuOTg0MzgtMC43NXYtMC4xMjVjMC0wLjE3MTg4LTAuMDYyNS0wLjI1LTAuMjUtMC4yNWgtMC44MjgxMmMtMC4xNzE4OCAwLTAuMjM0MzggMC4wNzgxMjUtMC4yMzQzOCAwLjI1djAuMzEyNWMwIDAuODQzNzUgMC41MTU2MiAxLjY0MDYgMi4zMTI1IDEuNjQwNiAxLjc4MTIgMCAyLjMxMjUtMC43OTY4OCAyLjMxMjUtMS42NDA2di0xLjIzNDRjMC0wLjg0Mzc1LTAuNjA5MzgtMS41OTM4LTIuMzI4MS0xLjU5MzhoLTAuNjcxODh2LTEuMzEyNWgyLjUzMTJjMC4xODc1IDAgMC4yNjU2Mi0wLjA2MjUgMC4yNjU2Mi0wLjI1di0wLjYyNWMwLTAuMTcxODgtMC4wNzgxMjUtMC4yMzQzOC0wLjI2NTYyLTAuMjM0Mzh6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgwLTE1IiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0yLTEuMTI1di0wLjU2MjVjMC0wLjMyODEyIDAuMTg3NS0wLjQzNzUgMC40Njg3NS0wLjU0Njg4bDEuNjg3NS0wLjcwMzEyYzAuNDA2MjUtMC4xNzE4OCAwLjk1MzEyLTAuNTQ2ODggMC45NTMxMi0xLjUxNTZ2LTAuNzk2ODhjMC0wLjg0Mzc1LTAuNTc4MTItMS42MjUtMi4zMTI1LTEuNjI1LTEuNzUgMC0yLjI4MTIgMC43ODEyNS0yLjI4MTIgMS42MjV2MC42MDkzOGMwIDAuMTg3NSAwLjA2MjUgMC4yNSAwLjI1IDAuMjVoMC44MjgxMmMwLjE3MTg4IDAgMC4yMTg3NS0wLjA2MjUgMC4yMTg3NS0wLjI1di0wLjM5MDYyYzAtMC41IDAuMzI4MTItMC43NSAwLjk4NDM4LTAuNzVzMC45Njg3NSAwLjI1IDAuOTY4NzUgMC43NXYwLjYwOTM4YzAgMC4zNzUtMC4yMTg3NSAwLjUxNTYyLTAuMzkwNjIgMC41NzgxMmwtMi4wNjI1IDAuODU5MzhjLTAuMzI4MTIgMC4xNDA2Mi0wLjY3MTg4IDAuMzI4MTItMC42NzE4OCAwLjg5MDYydjEuODQzOGMwIDAuMTg3NSAwLjA3ODEyNSAwLjI1IDAuMjY1NjIgMC4yNWg0YzAuMTU2MjUgMCAwLjI1LTAuMDYyNSAwLjI1LTAuMjV2LTAuNjI1YzAtMC4xODc1LTAuMDkzNzUtMC4yNS0wLjI1LTAuMjV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgwLTE2IiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0yLjg0MzgtNi41NDY5YzAuMDYyNS0wLjE1NjI1IDAtMC4yNS0wLjE3MTg4LTAuMjVoLTAuODc1Yy0wLjE3MTg4IDAtMC4yNSAwLjA5Mzc1LTAuMjk2ODggMC4yNWwtMS4xMjUgMy42MDk0Yy0wLjAzMTI1IDAuMDkzNzUtMC4wNDY4NzUgMC4xNDA2Mi0wLjA0Njg3NSAwLjIzNDM4djAuNjA5MzhjMCAwLjE4NzUgMC4wNzgxMjUgMC4yNSAwLjI1IDAuMjVoMy4wNDY5djEuNTc4MWMwIDAuMTg3NSAwLjA2MjUgMC4yNjU2MiAwLjI1IDAuMjY1NjJoMC44NTkzOGMwLjE4NzUgMCAwLjI1LTAuMDc4MTI1IDAuMjUtMC4yNjU2MnYtNi4yODEyYzAtMC4xNzE4OC0wLjA2MjUtMC4yNS0wLjI1LTAuMjVoLTAuODU5MzhjLTAuMTg3NSAwLTAuMjUgMC4wNzgxMjUtMC4yNSAwLjI1djMuNTc4MWgtMS45MDYyeiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoMC0xNyIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtNS4wNjI1LTUuMjVjMC0wLjg0Mzc1LTAuNTE1NjItMS42MjUtMi4yNS0xLjYyNS0xLjc1IDAtMi4yODEyIDAuNzgxMjUtMi4yODEyIDEuNjI1djAuOTY4NzVjMCAwLjg0Mzc1IDAuNTYyNSAxLjY0MDYgMi4wOTM4IDEuNjQwNiAwLjQ4NDM4IDAgMC44NTkzOC0wLjEyNSAxLjEwOTQtMC4yOTY4OHYxLjIwMzFjMCAwLjQ2ODc1LTAuMjY1NjIgMC43MzQzOC0wLjkyMTg4IDAuNzM0MzhzLTAuOTA2MjUtMC4yNjU2Mi0wLjkwNjI1LTAuNzM0Mzh2LTAuMDYyNWMwLTAuMTg3NS0wLjA2MjUtMC4yNS0wLjIxODc1LTAuMjVoLTAuODQzNzVjLTAuMTcxODggMC0wLjI1IDAuMDYyNS0wLjI1IDAuMjV2MC4yNWMwIDAuODEyNSAwLjQ4NDM4IDEuNjI1IDIuMjE4OCAxLjYyNSAxLjc1IDAgMi4yNS0wLjgxMjUgMi4yNS0xLjYyNXptLTEuMzI4MSAwLjc5Njg4YzAgMC40ODQzOC0wLjI4MTI1IDAuNzE4NzUtMC45MjE4OCAwLjcxODc1LTAuNjU2MjUgMC0wLjk1MzEyLTAuMjM0MzgtMC45NTMxMi0wLjczNDM4di0wLjU3ODEyYzAtMC41IDAuMjk2ODgtMC43NSAwLjk1MzEyLTAuNzUgMC42NDA2MiAwIDAuOTIxODggMC4yNSAwLjkyMTg4IDAuNzM0Mzh6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgxLTEiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTQuNjA5NC0xLjg3NWMwLTAuMTI1LTAuMDMxMjUtMC4xNzE4OC0wLjE1NjI1LTAuMTcxODhoLTAuNTE1NjJjLTAuMTI1IDAtMC4xNzE4OCAwLjA0Njg3NS0wLjE3MTg4IDAuMTcxODh2MC40MjE4OGMwIDAuNDg0MzgtMC4zMTI1IDAuNzgxMjUtMS4xMjUgMC43ODEyNXMtMS4xMjUtMC4yOTY4OC0xLjEyNS0wLjc4MTI1di0zLjIwMzFjMC0wLjQ4NDM4IDAuMzEyNS0wLjc4MTI1IDEuMTI1LTAuNzgxMjVzMS4xMjUgMC4yOTY4OCAxLjEyNSAwLjc4MTI1djAuMjk2ODhjMCAwLjEyNSAwLjA0Njg3NSAwLjE3MTg4IDAuMTcxODggMC4xNzE4OGgwLjUxNTYyYzAuMTI1IDAgMC4xNTYyNS0wLjA0Njg3NSAwLjE1NjI1LTAuMTcxODh2LTAuNDUzMTJjMC0wLjczNDM4LTAuNDM3NS0xLjM3NS0xLjk4NDQtMS4zNzVzLTEuOTg0NCAwLjY0MDYyLTEuOTg0NCAxLjM3NXYzLjVjMCAwLjczNDM4IDAuNDM3NSAxLjM5MDYgMS45ODQ0IDEuMzkwNnMxLjk4NDQtMC42NTYyNSAxLjk4NDQtMS4zOTA2eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoMS0yIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0yLjczNDQtMi4yODEyYzEuNTQ2OSAwIDIuMDMxMi0wLjY0MDYyIDIuMDMxMi0xLjM3NXYtMS4wNzgxYzAtMC43MzQzOC0wLjQ4NDM4LTEuMzkwNi0yLjAzMTItMS4zOTA2aC0xLjgyODFjLTAuMTI1IDAtMC4xNzE4OCAwLjA2MjUtMC4xNzE4OCAwLjE4NzV2NS43NWMwIDAuMTQwNjIgMC4wNDY4NzUgMC4xODc1IDAuMTcxODggMC4xODc1aDAuNTQ2ODhjMC4xMjUgMCAwLjE1NjI1LTAuMDQ2ODc1IDAuMTU2MjUtMC4xODc1di0yLjA5Mzh6bTAtMy4wOTM4YzAuNzk2ODggMCAxLjE1NjIgMC4yOTY4OCAxLjE1NjIgMC43ODEyNXYwLjc4MTI1YzAgMC40ODQzOC0wLjM1OTM4IDAuNzgxMjUtMS4xNTYyIDAuNzgxMjVoLTEuMTI1di0yLjM0Mzh6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgxLTMiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTEuNTYyNS0wLjc1di0wLjg1OTM4YzAtMC4zNTkzOCAwLjI4MTI1LTAuNDg0MzggMC41MTU2Mi0wLjU2MjVsMS41MzEyLTAuNTQ2ODhjMC4zMTI1LTAuMTA5MzggMC44MjgxMi0wLjQzNzUgMC44MjgxMi0xLjIxODh2LTAuODc1YzAtMC43MzQzOC0wLjQzNzUtMS4zNzUtMS45Mzc1LTEuMzc1LTEuNTE1NiAwLTEuOTIxOSAwLjY0MDYyLTEuOTIxOSAxLjM3NXYwLjUzMTI1YzAgMC4xMjUgMC4wNDY4NzUgMC4xNzE4OCAwLjE3MTg4IDAuMTcxODhoMC41MTU2MmMwLjEyNSAwIDAuMTcxODgtMC4wNDY4NzUgMC4xNzE4OC0wLjE3MTg4di0wLjM5MDYyYzAtMC41IDAuMjY1NjItMC43ODEyNSAxLjA2MjUtMC43ODEyNXMxLjA2MjUgMC4yODEyNSAxLjA2MjUgMC43ODEyNXYwLjc1YzAgMC4zNzUtMC4yODEyNSAwLjUxNTYyLTAuNDUzMTIgMC41NzgxMmwtMS43NSAwLjY1NjI1Yy0wLjI2NTYyIDAuMDkzNzUtMC42ODc1IDAuMjgxMjUtMC42ODc1IDAuODEyNXYxLjcwMzFjMCAwLjEyNSAwLjA2MjUgMC4xNzE4OCAwLjE3MTg4IDAuMTcxODhoMy40NTMxYzAuMTA5MzggMCAwLjE3MTg4LTAuMDQ2ODc1IDAuMTcxODgtMC4xNzE4OHYtMC40MDYyNWMwLTAuMTQwNjItMC4wNjI1LTAuMTcxODgtMC4xNzE4OC0wLjE3MTg4eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoMS00IiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0wLjgxMjUtNS43MTg4Yy0wLjEwOTM4IDAuMDE1NjI1LTAuMTcxODggMC4wNjI1LTAuMTcxODggMC4xODc1djAuNDUzMTJjMCAwLjEwOTM4IDAuMDYyNSAwLjE1NjI1IDAuMTcxODggMC4xNDA2MmwxLjM0MzgtMC4yNjU2MnY0LjQ1MzFoLTEuMzU5NGMtMC4xMDkzOCAwLTAuMTcxODggMC4wMzEyNS0wLjE3MTg4IDAuMTcxODh2MC40MDYyNWMwIDAuMTI1IDAuMDYyNSAwLjE3MTg4IDAuMTcxODggMC4xNzE4OGgzLjU2MjVjMC4xMDkzOCAwIDAuMTcxODgtMC4wNDY4NzUgMC4xNzE4OC0wLjE3MTg4di0wLjQwNjI1YzAtMC4xNDA2Mi0wLjA2MjUtMC4xNzE4OC0wLjE3MTg4LTAuMTcxODhoLTEuMzI4MXYtNS4yNWMwLTAuMTU2MjUtMC4wOTM3NS0wLjE4NzUtMC4xNTYyNS0wLjE3MTg4eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoMS01IiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0wLjUxNTYyLTEuMzEyNWMwIDAuNzM0MzggMC40NTMxMiAxLjM5MDYgMS45NTMxIDEuMzkwNiAxLjUxNTYgMCAxLjk2ODgtMC42NTYyNSAxLjk2ODgtMS4zOTA2di0zLjVjMC0wLjczNDM4LTAuNDUzMTItMS4zNzUtMS45Njg4LTEuMzc1LTEuNSAwLTEuOTUzMSAwLjY0MDYyLTEuOTUzMSAxLjM3NXptMy4wNDY5LTAuMTQwNjJjMCAwLjQ4NDM4LTAuMjgxMjUgMC43ODEyNS0xLjA5MzggMC43ODEyNS0wLjc5Njg4IDAtMS4wNjI1LTAuMjk2ODgtMS4wNjI1LTAuNzgxMjV2LTMuMjAzMWMwLTAuNDg0MzggMC4yNjU2Mi0wLjc4MTI1IDEuMDYyNS0wLjc4MTI1IDAuODEyNSAwIDEuMDkzOCAwLjI5Njg4IDEuMDkzOCAwLjc4MTI1eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoMi0xIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im01LjM1OTQgMGMwLjIwMzEyIDAgMC4yOTY4OC0wLjA3ODEyNSAwLjI5Njg4LTAuMjk2ODh2LTAuNzY1NjJjMC0wLjIwMzEyLTAuMDkzNzUtMC4yODEyNS0wLjI5Njg4LTAuMjgxMjVoLTIuOTA2MnYtMi4yMzQ0aDIuNTc4MWMwLjIxODc1IDAgMC4zMTI1LTAuMDc4MTI1IDAuMzEyNS0wLjI4MTI1di0wLjcxODc1YzAtMC4yMTg3NS0wLjA5Mzc1LTAuMjk2ODgtMC4zMTI1LTAuMjk2ODhoLTIuNTc4MXYtMS45Mzc1aDIuNzgxMmMwLjIwMzEyIDAgMC4yOTY4OC0wLjA5Mzc1IDAuMjk2ODgtMC4yOTY4OHYtMC43NjU2MmMwLTAuMjE4NzUtMC4wOTM3NS0wLjI4MTI1LTAuMjk2ODgtMC4yODEyNWgtNC4xMDk0Yy0wLjIxODc1IDAtMC4yODEyNSAwLjA5Mzc1LTAuMjgxMjUgMC4zMTI1djcuNTMxMmMwIDAuMjE4NzUgMC4wNjI1IDAuMzEyNSAwLjI4MTI1IDAuMzEyNXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDItMiIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtNC42NzE5LTUuODEyNWMwIDAuMjAzMTIgMC4wNjI1IDAuMjk2ODggMC4yNjU2MiAwLjI5Njg4aDEuMDE1NmMwLjIxODc1IDAgMC4yOTY4OC0wLjA5Mzc1IDAuMjk2ODgtMC4yOTY4OHYtMC40ODQzOGMwLTEuMDE1Ni0wLjY3MTg4LTEuOTUzMS0yLjc2NTYtMS45NTMxLTIuMTA5NCAwLTIuNzM0NCAwLjkzNzUtMi43MzQ0IDEuOTUzMXYwLjcwMzEyYzAgMC43MTg3NSAwLjUxNTYyIDEuMzI4MSAxLjA5MzggMS41NDY5bDEuODU5NCAwLjcwMzEyYzAuNTQ2ODggMC4yMDMxMiAxLjAzMTIgMC4zOTA2MiAxLjAzMTIgMC44OTA2MnYwLjM3NWMwIDAuNTkzNzUtMC40Njg3NSAwLjg1OTM4LTEuMjgxMiAwLjg1OTM4cy0xLjI2NTYtMC4yNjU2Mi0xLjI2NTYtMC44NTkzOHYtMC41MzEyNWMwLTAuMjE4NzUtMC4wNzgxMjUtMC4zMTI1LTAuMjk2ODgtMC4zMTI1aC0xYy0wLjIwMzEyIDAtMC4yOTY4OCAwLjA5Mzc1LTAuMjk2ODggMC4zMTI1djAuNzVjMCAxIDAuNzM0MzggMS45NTMxIDIuODc1IDEuOTUzMXMyLjg1OTQtMC45NTMxMiAyLjg1OTQtMS45NTMxdi0wLjkyMTg4YzAtMC44OTA2Mi0wLjYwOTM4LTEuNDM3NS0xLjQyMTktMS43MzQ0bC0yLjA5MzgtMC43MzQzOGMtMC4xODc1LTAuMDc4MTI1LTAuNDg0MzgtMC4yMzQzOC0wLjQ4NDM4LTAuNjU2MjV2LTAuMTcxODhjMC0wLjU5Mzc1IDAuMzkwNjItMC44NzUgMS4xNzE5LTAuODc1IDAuNzY1NjIgMCAxLjE3MTkgMC4yODEyNSAxLjE3MTkgMC44NzV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgyLTMiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTMuNjQwNi0yLjg5MDZjMi4xNzE5IDAgMi45MDYyLTAuOTUzMTIgMi45MDYyLTEuOTUzMXYtMS4zNTk0YzAtMS4wMTU2LTAuNzM0MzgtMS45NTMxLTIuOTA2Mi0xLjk1MzFoLTIuNTE1NmMtMC4yMTg3NSAwLTAuMjgxMjUgMC4wOTM3NS0wLjI4MTI1IDAuMzEyNXY3LjUzMTJjMCAwLjIxODc1IDAuMDYyNSAwLjMxMjUgMC4yODEyNSAwLjMxMjVoMS4wNDY5YzAuMjE4NzUgMCAwLjI4MTI1LTAuMDkzNzUgMC4yODEyNS0wLjMxMjV2LTIuNTc4MXptMC0zLjkyMTljMC44MTI1IDAgMS4yOTY5IDAuMjk2ODggMS4yOTY5IDAuODkwNjJ2MC43OTY4OGMwIDAuNTkzNzUtMC40ODQzOCAwLjg5MDYyLTEuMjk2OSAwLjg5MDYyaC0xLjE4NzV2LTIuNTc4MXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDItNCIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMS4wMTU2LTQuMTA5NGMtMC4yMTg3NSAwLTAuMzEyNSAwLjA3ODEyNS0wLjMxMjUgMC4yOTY4OHYwLjcwMzEyYzAgMC4yMDMxMiAwLjA5Mzc1IDAuMjk2ODggMC4zMTI1IDAuMjk2ODhoMy4yMDMxYzAuMjAzMTIgMCAwLjMxMjUtMC4wOTM3NSAwLjMxMjUtMC4yOTY4OHYtMC43MDMxMmMwLTAuMjE4NzUtMC4xMDkzOC0wLjI5Njg4LTAuMzEyNS0wLjI5Njg4eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoMi01IiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im01Ljk1MzEtNy44NTk0Yy0wLjA0Njg3NS0wLjE4NzUtMC4xNDA2Mi0wLjI5Njg4LTAuMzU5MzgtMC4yOTY4OGgtMC45Njg3NWMtMC4yMTg3NSAwLTAuMzEyNSAwLjEwOTM4LTAuMzU5MzggMC4yOTY4OGwtMS4wMzEyIDQuMDkzOGMtMC4xNTYyNSAwLjYwOTM4LTAuMjE4NzUgMS0wLjIxODc1IDFzLTAuMDkzNzUtMC41NjI1LTAuMjAzMTItMWwtMS00LjA5MzhjLTAuMDQ2ODc1LTAuMTg3NS0wLjE0MDYyLTAuMjk2ODgtMC4zNDM3NS0wLjI5Njg4aC0xLjA3ODFjLTAuMjAzMTIgMC0wLjI2NTYyIDAuMTA5MzgtMC4yMTg3NSAwLjI5Njg4bDEuOTA2MiA3LjU2MjVjMC4wNDY4NzUgMC4xODc1IDAuMTU2MjUgMC4yOTY4OCAwLjMyODEyIDAuMjk2ODhoMS4wMzEyYzAuMjAzMTIgMCAwLjMxMjUtMC4wOTM3NSAwLjM1OTM4LTAuMjk2ODhsMS4wNjI1LTQuMTcxOWMwLjA2MjUtMC4yNSAwLjE1NjI1LTAuOTg0MzggMC4xNzE4OC0xLjA5MzggMC4wMTU2MjUgMC4xMjUgMC4wOTM3NSAwLjgyODEyIDAuMTcxODggMS4wOTM4bDEuMDQ2OSA0LjE3MTljMC4wNDY4NzUgMC4xODc1IDAuMTU2MjUgMC4yOTY4OCAwLjM0Mzc1IDAuMjk2ODhoMS4wMTU2YzAuMjAzMTIgMCAwLjMyODEyLTAuMDkzNzUgMC4zNzUtMC4yOTY4OGwxLjkwNjItNy41NjI1YzAuMDQ2ODc1LTAuMTg3NS0wLjAxNTYyNS0wLjI5Njg4LTAuMjM0MzgtMC4yOTY4OGgtMC45MDYyNWMtMC4yMDMxMiAwLTAuMjk2ODggMC4xMDkzOC0wLjM0Mzc1IDAuMjk2ODhsLTEuMDMxMiA0LjA5MzhjLTAuMTQwNjIgMC41MzEyNS0wLjIxODc1IDEuMDkzOC0wLjIxODc1IDEuMTcxOS0wLjAxNTYyNS0wLjEwOTM4LTAuMDkzNzUtMC43ODEyNS0wLjIwMzEyLTEuMTg3NXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDItNiIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMy42NDA2LTMuMTA5NGgwLjA3ODEyNWwxLjE3MTkgMi43OTY5YzAuMDkzNzUgMC4xODc1IDAuMTQwNjIgMC4zMTI1IDAuMzEyNSAwLjMxMjVoMS4wNDY5YzAuMjE4NzUgMCAwLjM1OTM4LTAuMTI1IDAuMjgxMjUtMC4zMTI1bC0xLjI5NjktMy4wMzEyYzAuOTUzMTItMC4zNDM3NSAxLjMxMjUtMS4wMTU2IDEuMzEyNS0xLjcxODh2LTEuMTQwNmMwLTEuMDE1Ni0wLjczNDM4LTEuOTUzMS0yLjkwNjItMS45NTMxaC0yLjUxNTZjLTAuMjE4NzUgMC0wLjI4MTI1IDAuMDkzNzUtMC4yODEyNSAwLjMxMjV2Ny41MzEyYzAgMC4yMTg3NSAwLjA2MjUgMC4zMTI1IDAuMjgxMjUgMC4zMTI1aDEuMDQ2OWMwLjIxODc1IDAgMC4yODEyNS0wLjA5Mzc1IDAuMjgxMjUtMC4zMTI1di0yLjc5Njl6bTAtMy43MDMxYzAuODEyNSAwIDEuMjk2OSAwLjI5Njg4IDEuMjk2OSAwLjg5MDYydjAuNTYyNWMwIDAuNjA5MzgtMC40ODQzOCAwLjkwNjI1LTEuMjk2OSAwLjkwNjI1aC0xLjE4NzV2LTIuMzU5NHoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDItNyIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMC43MDMxMi0xLjg1OTRjMCAxIDAuNzUgMS45NTMxIDIuOTIxOSAxLjk1MzFzMi45MjE5LTAuOTUzMTIgMi45MjE5LTEuOTUzMXYtNC40Mzc1YzAtMS4wMTU2LTAuNzUtMS45NTMxLTIuOTIxOS0xLjk1MzFzLTIuOTIxOSAwLjkzNzUtMi45MjE5IDEuOTUzMXptNC4yMTg4LTAuMjgxMjVjMCAwLjU5Mzc1LTAuNSAwLjg5MDYyLTEuMjk2OSAwLjg5MDYyLTAuODEyNSAwLTEuMjgxMi0wLjI5Njg4LTEuMjgxMi0wLjg5MDYydi0zLjg3NWMwLTAuNTkzNzUgMC40Njg3NS0wLjg5MDYyIDEuMjgxMi0wLjg5MDYyIDAuNzk2ODggMCAxLjI5NjkgMC4yOTY4OCAxLjI5NjkgMC44OTA2MnoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDItOCIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtOC4xMjUtNy44NTk0YzAtMC4yMDMxMi0wLjA3ODEyNS0wLjI5Njg4LTAuMjgxMjUtMC4yOTY4OGgtMWMtMC4xNDA2MiAwLTAuMjM0MzggMC4wMzEyNS0wLjI4MTI1IDAuMTQwNjJsLTEuNzgxMiA0LjIxODhjLTAuMTU2MjUgMC4zNTkzOC0wLjMxMjUgMC44MjgxMi0wLjMxMjUgMC44MjgxMnMtMC4xNTYyNS0wLjUxNTYyLTAuMjk2ODgtMC44MjgxMmwtMS44MjgxLTQuMTg3NWMtMC4wNDY4NzUtMC4xMDkzOC0wLjEwOTM4LTAuMTcxODgtMC4yNjU2Mi0wLjE3MTg4aC0wLjk1MzEyYy0wLjIxODc1IDAtMC4yODEyNSAwLjA5Mzc1LTAuMjgxMjUgMC4yOTY4OHY3LjU2MjVjMCAwLjIwMzEyIDAuMDYyNSAwLjI5Njg4IDAuMjgxMjUgMC4yOTY4OGgwLjk1MzEyYzAuMjE4NzUgMCAwLjI4MTI1LTAuMDkzNzUgMC4yODEyNS0wLjI5Njg4di00LjU0NjljMC4wMTU2MjUgMC4wOTM3NSAwLjE1NjI1IDAuNjQwNjIgMC4yODEyNSAwLjg5MDYybDEuMDE1NiAyLjQyMTljMC4wNzgxMjUgMC4xNzE4OCAwLjE4NzUgMC4yOTY4OCAwLjM5MDYyIDAuMjk2ODhoMC44NDM3NWMwLjIwMzEyIDAgMC4zMTI1LTAuMTA5MzggMC40MDYyNS0wLjI5Njg4bDAuOTA2MjUtMi4yMzQ0YzAuMTI1LTAuMzI4MTIgMC4zNDM3NS0xLjA2MjUgMC4zNDM3NS0xLjA5Mzh2NC41NjI1YzAgMC4yMDMxMiAwLjA3ODEyNSAwLjI5Njg4IDAuMjk2ODggMC4yOTY4OGgxYzAuMjAzMTIgMCAwLjI4MTI1LTAuMDkzNzUgMC4yODEyNS0wLjI5Njg4eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoMi05IiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0yLjQwNjItNC44NDM4Yy0wLjIwMzEyIDAtMC4yOTY4OCAwLjA2MjUtMC4yOTY4OCAwLjI4MTI1djAuNzAzMTJjMCAwLjIxODc1IDAuMDkzNzUgMC4zMTI1IDAuMjk2ODggMC4zMTI1aDAuOTM3NWMwLjc5Njg4IDAgMS4xNzE5IDAuMjY1NjIgMS4xNzE5IDAuODc1djAuNTc4MTJjMCAwLjU5Mzc1LTAuMzkwNjIgMC44OTA2Mi0xLjE3MTkgMC44OTA2Mi0wLjc5Njg4IDAtMS4yMDMxLTAuMjk2ODgtMS4yMDMxLTAuODkwNjJ2LTAuMTU2MjVjMC0wLjIwMzEyLTAuMDc4MTI1LTAuMjk2ODgtMC4yOTY4OC0wLjI5Njg4aC0wLjk4NDM4Yy0wLjIxODc1IDAtMC4yOTY4OCAwLjA5Mzc1LTAuMjk2ODggMC4yOTY4OHYwLjM5MDYyYzAgMSAwLjY0MDYyIDEuOTUzMSAyLjc4MTIgMS45NTMxczIuNzY1Ni0wLjkwNjI1IDIuNzY1Ni0xLjkwNjJ2LTEuMDYyNWMwLTAuNjA5MzgtMC4yNS0xLjA5MzgtMS4wMTU2LTEuMzc1IDAuNjcxODgtMC4yMTg3NSAwLjkwNjI1LTAuNjI1IDAuOTA2MjUtMS4yNXYtMC44NDM3NWMwLTEtMC41NDY4OC0xLjkwNjItMi42NzE5LTEuOTA2Mi0yLjE1NjIgMC0yLjcwMzEgMC45Mzc1LTIuNzAzMSAxLjk1MzF2MC4zNzVjMCAwLjIwMzEyIDAuMDYyNSAwLjMxMjUgMC4yODEyNSAwLjMxMjVoMC45ODQzOGMwLjIxODc1IDAgMC4zMTI1LTAuMTA5MzggMC4zMTI1LTAuMzEyNXYtMC4xNTYyNWMwLTAuNTc4MTIgMC4zMTI1LTAuODc1IDEuMTA5NC0wLjg3NSAwLjc4MTI1IDAgMS4wOTM4IDAuMjk2ODggMS4wOTM4IDAuODc1djAuMzQzNzVjMCAwLjU5Mzc1LTAuMzc1IDAuODkwNjItMS4xNzE5IDAuODkwNjJ6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGgyLTEwIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0yLjQwNjItMS4zNDM4di0wLjY3MTg4YzAtMC40MDYyNSAwLjIwMzEyLTAuNTMxMjUgMC41NjI1LTAuNjcxODhsMi4wMTU2LTAuODQzNzVjMC41LTAuMjAzMTIgMS4xNDA2LTAuNjU2MjUgMS4xNDA2LTEuODI4MXYtMC45Mzc1YzAtMS4wMTU2LTAuNjg3NS0xLjk1MzEtMi43ODEyLTEuOTUzMS0yLjA3ODEgMC0yLjczNDQgMC45Mzc1LTIuNzM0NCAxLjk1MzF2MC43MzQzOGMwIDAuMjAzMTIgMC4wOTM3NSAwLjI5Njg4IDAuMjk2ODggMC4yOTY4OGgxYzAuMjAzMTIgMCAwLjI4MTI1LTAuMDkzNzUgMC4yODEyNS0wLjI5Njg4di0wLjQ2ODc1YzAtMC42MDkzOCAwLjM3NS0wLjkwNjI1IDEuMTU2Mi0wLjkwNjI1IDAuNzk2ODggMCAxLjE4NzUgMC4yOTY4OCAxLjE4NzUgMC45MDYyNXYwLjczNDM4YzAgMC40Mzc1LTAuMjY1NjIgMC42MDkzOC0wLjQ4NDM4IDAuNjg3NWwtMi40Njg4IDEuMDMxMmMtMC4zOTA2MiAwLjE3MTg4LTAuODEyNSAwLjM5MDYyLTAuODEyNSAxLjA2MjV2Mi4yMTg4YzAgMC4yMTg3NSAwLjA5Mzc1IDAuMjk2ODggMC4zMTI1IDAuMjk2ODhoNC43OTY5YzAuMjAzMTIgMCAwLjMxMjUtMC4wNzgxMjUgMC4zMTI1LTAuMjk2ODh2LTAuNzY1NjJjMC0wLjIwMzEyLTAuMTA5MzgtMC4yODEyNS0wLjMxMjUtMC4yODEyNXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDMtMSIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMC00LjUzMTJjMC0wLjEyNS0wLjA0Njg3NS0wLjE4NzUtMC4xODc1LTAuMTg3NWgtMC40Njg3NWMtMC4xNDA2MiAwLTAuMTcxODggMC4wNjI1LTAuMTcxODggMC4xODc1djIuNzM0NGgtMi4zMTI1di0yLjQzNzVjMC0wLjE0MDYyLTAuMDYyNS0wLjIwMzEyLTAuMTg3NS0wLjIwMzEyaC0wLjQzNzVjLTAuMTQwNjIgMC0wLjE4NzUgMC4wNjI1LTAuMTg3NSAwLjIwMzEydjIuNDM3NWgtMi4wMTU2di0yLjYyNWMwLTAuMTI1LTAuMDQ2ODc1LTAuMTg3NS0wLjE4NzUtMC4xODc1aC0wLjQ1MzEyYy0wLjE0MDYyIDAtMC4xODc1IDAuMDYyNS0wLjE4NzUgMC4xODc1djMuNDIxOWMwIDAuMTI1IDAuMDYyNSAwLjE4NzUgMC4yMDMxMiAwLjE4NzVoNi4zOTA2YzAuMTQwNjIgMCAwLjIwMzEyLTAuMDYyNSAwLjIwMzEyLTAuMTg3NXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDMtMiIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtLTYuNjA5NC01LjM1OTRjLTAuMTI1IDAtMC4xODc1IDAuMDQ2ODc1LTAuMTg3NSAwLjE3MTg4djAuNTYyNWMwIDAuMTI1IDAuMDYyNSAwLjE4NzUgMC4xODc1IDAuMTg3NWg0LjczNDRzLTAuMzkwNjIgMC4xNzE4OC0wLjY0MDYyIDAuMzEyNWwtNC4yMDMxIDIuNDA2MmMtMC4wNDY4NzUgMC4wMzEyNS0wLjA3ODEyNSAwLjA3ODEyNS0wLjA3ODEyNSAwLjE1NjI1djAuNTYyNWMwIDAuMTI1IDAuMDYyNSAwLjE4NzUgMC4xODc1IDAuMTg3NWg2LjQyMTljMC4xMjUgMCAwLjE4NzUtMC4wNjI1IDAuMTg3NS0wLjE4NzV2LTAuNTYyNWMwLTAuMTI1LTAuMDYyNS0wLjE3MTg4LTAuMTg3NS0wLjE3MTg4aC00Ljc1YzAuMDQ2ODc1LTAuMDMxMjUgMC4zNTkzOC0wLjE0MDYyIDAuNzM0MzgtMC4zNTkzOGw0LjEwOTQtMi4zNTk0YzAuMDYyNS0wLjAzMTI1IDAuMDkzNzUtMC4wNzgxMjUgMC4wOTM3NS0wLjE3MTg4di0wLjU2MjVjMC0wLjEyNS0wLjA2MjUtMC4xNzE4OC0wLjE4NzUtMC4xNzE4OHoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDQtMSIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMC0zLjA2MjVjMC0xLjcxODgtMC42ODc1LTIuMjY1Ni0xLjUtMi4yNjU2aC0wLjg0Mzc1Yy0wLjU5Mzc1IDAtMS4wMTU2IDAuMzc1LTEuMjE4OCAxLjEyNS0wLjIzNDM4LTAuNTkzNzUtMC42NDA2Mi0wLjg0Mzc1LTEuMTU2Mi0wLjg0Mzc1aC0wLjYyNWMtMC44MTI1IDAtMS40NTMxIDAuNTYyNS0xLjQ1MzEgMi4yODEydjEuNzY1NmMwIDAuMTI1IDAuMDYyNSAwLjE4NzUgMC4yMDMxMiAwLjE4NzVoNi4zOTA2YzAuMTQwNjIgMCAwLjIwMzEyLTAuMDYyNSAwLjIwMzEyLTAuMTg3NXptLTMuMTA5NCAwYzAtMC44OTA2MiAwLjMyODEyLTEuMjk2OSAwLjgyODEyLTEuMjk2OWgwLjYwOTM4YzAuNTQ2ODggMCAwLjg1OTM4IDAuNDA2MjUgMC44NTkzOCAxLjI5Njl2MS4yNjU2aC0yLjI5Njl6bS0yLjg3NSAwLjI5Njg4YzAtMC45MDYyNSAwLjIzNDM4LTEuMjk2OSAwLjc4MTI1LTEuMjk2OWgwLjQ2ODc1YzAuNTQ2ODggMCAwLjg1OTM4IDAuMzkwNjIgMC44NTkzOCAxLjIxODh2MS4wNDY5aC0yLjEwOTR6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg0LTIiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibS0xLjQ1MzEtMC43MDMxMmMwLjgxMjUgMCAxLjUzMTItMC41NjI1IDEuNTMxMi0yLjI4MTJzLTAuNzE4NzUtMi4yODEyLTEuNTMxMi0yLjI4MTJoLTMuODkwNmMtMC44MTI1IDAtMS41MzEyIDAuNTYyNS0xLjUzMTIgMi4yODEyczAuNzE4NzUgMi4yODEyIDEuNTMxMiAyLjI4MTJ6bS0wLjE3MTg4LTMuNTc4MWMwLjU0Njg4IDAgMC44NzUgMC40MDYyNSAwLjg3NSAxLjI5NjlzLTAuMzI4MTIgMS4yOTY5LTAuODc1IDEuMjk2OWgtMy41NjI1Yy0wLjUzMTI1IDAtMC44NTkzOC0wLjQwNjI1LTAuODU5MzgtMS4yOTY5czAuMzI4MTItMS4yOTY5IDAuODU5MzgtMS4yOTY5eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoNC0zIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0tNi43OTY5LTAuMzQzNzVjMCAwLjE0MDYyIDAuMDQ2ODc1IDAuMTg3NSAwLjE4NzUgMC4xODc1aDAuNDUzMTJjMC4xNDA2MiAwIDAuMTg3NS0wLjA0Njg3NSAwLjE4NzUtMC4xODc1di0xLjU5MzhoNS43NjU2YzAuMTQwNjIgMCAwLjIwMzEyLTAuMDQ2ODc1IDAuMjAzMTItMC4xODc1di0wLjYwOTM4YzAtMC4xNDA2Mi0wLjA2MjUtMC4xODc1LTAuMjAzMTItMC4xODc1aC01Ljc2NTZ2LTEuNTkzOGMwLTAuMTQwNjItMC4wNDY4NzUtMC4xODc1LTAuMTg3NS0wLjE4NzVoLTAuNDUzMTJjLTAuMTQwNjIgMC0wLjE4NzUgMC4wNDY4NzUtMC4xODc1IDAuMTg3NXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDUtMSIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMy40MDYyIDBjMS44NzUgMCAyLjUtMC43OTY4OCAyLjUtMS42ODc1di00LjA5MzhjMC0wLjkwNjI1LTAuNjI1LTEuNzAzMS0yLjUtMS43MDMxaC0yLjMxMjVjLTAuMTQwNjIgMC0wLjE4NzUgMC4wNzgxMjUtMC4xODc1IDAuMjE4NzV2Ny4wNDY5YzAgMC4xNDA2MiAwLjA0Njg3NSAwLjIxODc1IDAuMTcxODggMC4yMTg3NXptMC02LjU2MjVjMC45ODQzOCAwIDEuNDIxOSAwLjM1OTM4IDEuNDIxOSAwLjk1MzEydjMuNzM0NGMwIDAuNTkzNzUtMC40Mzc1IDAuOTY4NzUtMS40MjE5IDAuOTY4NzVoLTEuNDM3NXYtNS42NTYyeiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoNS0yIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0wLjc4MTI1LTEuNjA5NGMwIDAuOTA2MjUgMC42MDkzOCAxLjcwMzEgMi41IDEuNzAzMXMyLjUtMC43OTY4OCAyLjUtMS43MDMxdi00LjI2NTZjMC0wLjkwNjI1LTAuNjA5MzgtMS42ODc1LTIuNS0xLjY4NzVzLTIuNSAwLjc4MTI1LTIuNSAxLjY4NzV6bTMuOTIxOS0wLjE3MTg4YzAgMC41OTM3NS0wLjQzNzUgMC45NTMxMi0xLjQyMTkgMC45NTMxMnMtMS40MjE5LTAuMzU5MzgtMS40MjE5LTAuOTUzMTJ2LTMuOTIxOWMwLTAuNTkzNzUgMC40Mzc1LTAuOTUzMTIgMS40MjE5LTAuOTUzMTJzMS40MjE5IDAuMzU5MzggMS40MjE5IDAuOTUzMTJ6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg1LTMiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTEuOTY4OC03LjI2NTZjMC0wLjE0MDYyLTAuMDQ2ODc1LTAuMjE4NzUtMC4yMDMxMi0wLjIxODc1aC0wLjY3MTg4Yy0wLjE0MDYyIDAtMC4xODc1IDAuMDc4MTI1LTAuMTg3NSAwLjIxODc1djcuMDQ2OWMwIDAuMTU2MjUgMC4wNDY4NzUgMC4yMTg3NSAwLjE4NzUgMC4yMTg3NWgwLjY3MTg4YzAuMTU2MjUgMCAwLjIwMzEyLTAuMDYyNSAwLjIwMzEyLTAuMjE4NzV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg1LTQiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTAuMzc1LTcuNDg0NGMtMC4xNTYyNSAwLTAuMjAzMTIgMC4wNjI1LTAuMjAzMTIgMC4yMTg3NXYwLjQ4NDM4YzAgMC4xNTYyNSAwLjA0Njg3NSAwLjIxODc1IDAuMjAzMTIgMC4yMTg3NWgxLjc2NTZ2Ni4zNDM4YzAgMC4xNTYyNSAwLjA0Njg3NSAwLjIxODc1IDAuMTg3NSAwLjIxODc1aDAuNjg3NWMwLjE0MDYyIDAgMC4yMDMxMi0wLjA2MjUgMC4yMDMxMi0wLjIxODc1di02LjM0MzhoMS43NWMwLjE0MDYyIDAgMC4yMTg3NS0wLjA2MjUgMC4yMTg3NS0wLjIxODc1di0wLjQ4NDM4YzAtMC4xNTYyNS0wLjA3ODEyNS0wLjIxODc1LTAuMjE4NzUtMC4yMTg3NXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDUtNiIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtNC45ODQ0IDBjMC4xNDA2MiAwIDAuMjAzMTItMC4wNjI1IDAuMjAzMTItMC4yMDMxMnYtMC41MTU2MmMwLTAuMTU2MjUtMC4wNjI1LTAuMTg3NS0wLjIwMzEyLTAuMTg3NWgtMy4wMTU2di0yLjU0NjloMi42ODc1YzAuMTU2MjUgMCAwLjIzNDM4LTAuMDYyNSAwLjIzNDM4LTAuMjAzMTJ2LTAuNDg0MzhjMC0wLjE1NjI1LTAuMDc4MTI1LTAuMjAzMTItMC4yMzQzOC0wLjIwMzEyaC0yLjY4NzV2LTIuMjE4OGgyLjg5MDZjMC4xNDA2MiAwIDAuMjE4NzUtMC4wNjI1IDAuMjE4NzUtMC4yMTg3NXYtMC40ODQzOGMwLTAuMTU2MjUtMC4wNzgxMjUtMC4yMTg3NS0wLjIxODc1LTAuMjE4NzVoLTMuNzY1NmMtMC4xNDA2MiAwLTAuMTg3NSAwLjA3ODEyNS0wLjE4NzUgMC4yMTg3NXY3LjA0NjljMCAwLjE1NjI1IDAuMDQ2ODc1IDAuMjE4NzUgMC4xODc1IDAuMjE4NzV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg1LTciIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTQuNTE1Ni01LjM5MDZjMCAwLjE0MDYyIDAuMDMxMjUgMC4yMDMxMiAwLjE4NzUgMC4yMDMxMmgwLjY1NjI1YzAuMTQwNjIgMCAwLjIwMzEyLTAuMDYyNSAwLjIwMzEyLTAuMjAzMTJ2LTAuNDg0MzhjMC0wLjkwNjI1LTAuNTkzNzUtMS42ODc1LTIuMzkwNi0xLjY4NzVzLTIuMzc1IDAuNzgxMjUtMi4zNzUgMS42ODc1djAuNjI1YzAgMC42ODc1IDAuNSAxLjE4NzUgMC45ODQzOCAxLjM1OTRsMS44NTk0IDAuNzE4NzVjMC40MjE4OCAwLjE3MTg4IDAuOTIxODggMC4zNTkzOCAwLjkyMTg4IDAuOTA2MjV2MC41MTU2MmMwIDAuNTkzNzUtMC40MjE4OCAwLjkzNzUtMS40MjE5IDAuOTM3NS0wLjk4NDM4IDAtMS40MDYyLTAuMzQzNzUtMS40MDYyLTAuOTM3NXYtMC41YzAtMC4xNDA2Mi0wLjA0Njg3NS0wLjIxODc1LTAuMTg3NS0wLjIxODc1aC0wLjY1NjI1Yy0wLjE0MDYyIDAtMC4yMDMxMiAwLjA3ODEyNS0wLjIwMzEyIDAuMjE4NzV2MC42NDA2MmMwIDAuOTA2MjUgMC42MjUgMS43MDMxIDIuNDY4OCAxLjcwMzFzMi40Njg4LTAuNzk2ODggMi40Njg4LTEuNzAzMXYtMC45MDYyNWMwLTAuODEyNS0wLjU0Njg4LTEuMjUtMS4yMTg4LTEuNWwtMi0wLjc2NTYyYy0wLjIzNDM4LTAuMDc4MTI1LTAuNTYyNS0wLjIxODc1LTAuNTYyNS0wLjczNDM4di0wLjIxODc1YzAtMC41OTM3NSAwLjM3NS0wLjkzNzUgMS4zMjgxLTAuOTM3NSAwLjk2ODc1IDAgMS4zNDM4IDAuMzQzNzUgMS4zNDM4IDAuOTM3NXoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDUtOCIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMy4zMjgxLTIuNzgxMmMxLjg5MDYgMCAyLjUtMC43OTY4OCAyLjUtMS43MDMxdi0xLjI5NjljMC0wLjkwNjI1LTAuNjA5MzgtMS43MDMxLTIuNS0xLjcwMzFoLTIuMjM0NGMtMC4xNDA2MiAwLTAuMTg3NSAwLjA3ODEyNS0wLjE4NzUgMC4yMTg3NXY3LjA0NjljMCAwLjE1NjI1IDAuMDQ2ODc1IDAuMjE4NzUgMC4xODc1IDAuMjE4NzVoMC42NzE4OGMwLjE1NjI1IDAgMC4yMDMxMi0wLjA2MjUgMC4yMDMxMi0wLjIxODc1di0yLjU2MjV6bTAtMy43ODEyYzEgMCAxLjQzNzUgMC4zNTkzOCAxLjQzNzUgMC45NTMxMnYwLjk1MzEyYzAgMC41OTM3NS0wLjQzNzUgMC45NTMxMi0xLjQzNzUgMC45NTMxMmgtMS4zNTk0di0yLjg1OTR6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg1LTkiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTIuMDc4MS00LjM1OTRjLTAuMTU2MjUgMC0wLjIwMzEyIDAuMDYyNS0wLjIwMzEyIDAuMjE4NzV2MC40Njg3NWMwIDAuMTU2MjUgMC4wNDY4NzUgMC4yMDMxMiAwLjIwMzEyIDAuMjAzMTJoMC45MjE4OGMxIDAgMS4yOTY5IDAuMzI4MTIgMS4yOTY5IDAuOTIxODh2MC44MTI1YzAgMC41OTM3NS0wLjM1OTM4IDAuOTM3NS0xLjMxMjUgMC45Mzc1cy0xLjMyODEtMC4zNDM3NS0xLjMyODEtMC45Mzc1di0wLjE0MDYyYzAtMC4xNTYyNS0wLjA0Njg3NS0wLjIxODc1LTAuMTg3NS0wLjIxODc1aC0wLjY1NjI1Yy0wLjE0MDYyIDAtMC4yMDMxMiAwLjA2MjUtMC4yMDMxMiAwLjIxODc1djAuMjgxMjVjMCAwLjkwNjI1IDAuNTMxMjUgMS42ODc1IDIuMzc1IDEuNjg3NXMyLjM1OTQtMC43NjU2MiAyLjM1OTQtMS42NTYydi0xLjEwOTRjMC0wLjU5Mzc1LTAuMjAzMTItMS4wNDY5LTAuOTg0MzgtMS4yNjU2IDAuNzE4NzUtMC4yMDMxMiAwLjkwNjI1LTAuNTkzNzUgMC45MDYyNS0xLjE4NzV2LTAuNzk2ODhjMC0wLjg5MDYyLTAuNDUzMTItMS42NDA2LTIuMjgxMi0xLjY0MDYtMS44NDM4IDAtMi4zMTI1IDAuNzgxMjUtMi4zMTI1IDEuNjcxOXYwLjI5Njg4YzAgMC4xNDA2MiAwLjA0Njg3NSAwLjIwMzEyIDAuMjAzMTIgMC4yMDMxMmgwLjYyNWMwLjE1NjI1IDAgMC4yMTg3NS0wLjA2MjUgMC4yMTg3NS0wLjIwMzEydi0wLjE0MDYyYzAtMC42MDkzOCAwLjI5Njg4LTAuOTM3NSAxLjI1LTAuOTM3NXMxLjIzNDQgMC4zMjgxMiAxLjIzNDQgMC45Mzc1djAuNDUzMTJjMCAwLjYwOTM4LTAuMjk2ODggMC45MjE4OC0xLjI4MTIgMC45MjE4OHoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDUtMTAiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTEuOTA2Mi0wLjkwNjI1di0xLjA2MjVjMC0wLjQzNzUgMC4zNDM3NS0wLjU3ODEyIDAuNjQwNjItMC42ODc1bDEuODU5NC0wLjY3MTg4YzAuMzkwNjItMC4xNDA2MiAxLjAxNTYtMC41MTU2MiAxLjAxNTYtMS40ODQ0di0xLjA2MjVjMC0wLjkwNjI1LTAuNTMxMjUtMS42ODc1LTIuMzc1LTEuNjg3NXMtMi4zNDM4IDAuNzgxMjUtMi4zNDM4IDEuNjg3NXYwLjY0MDYyYzAgMC4xNTYyNSAwLjA2MjUgMC4yMTg3NSAwLjIwMzEyIDAuMjE4NzVoMC42NDA2MmMwLjE0MDYyIDAgMC4yMDMxMi0wLjA2MjUgMC4yMDMxMi0wLjIxODc1di0wLjQ2ODc1YzAtMC42MDkzOCAwLjMyODEyLTAuOTY4NzUgMS4yOTY5LTAuOTY4NzUgMC45ODQzOCAwIDEuMzEyNSAwLjM1OTM4IDEuMzEyNSAwLjk2ODc1djAuOTA2MjVjMCAwLjQ2ODc1LTAuMzU5MzggMC42NDA2Mi0wLjU2MjUgMC43MTg3NWwtMi4xNDA2IDAuNzk2ODhjLTAuMzEyNSAwLjEwOTM4LTAuODI4MTIgMC4zMjgxMi0wLjgyODEyIDAuOTg0Mzh2Mi4wOTM4YzAgMC4xNDA2MiAwLjA2MjUgMC4yMDMxMiAwLjIwMzEyIDAuMjAzMTJoNC4yMTg4YzAuMTQwNjIgMCAwLjIwMzEyLTAuMDYyNSAwLjIwMzEyLTAuMjAzMTJ2LTAuNTE1NjJjMC0wLjE1NjI1LTAuMDYyNS0wLjE4NzUtMC4yMDMxMi0wLjE4NzV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg1LTExIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0zLjI5NjkgMGMwLjE0MDYyIDAgMC4yMTg3NS0wLjA2MjUgMC4yNjU2Mi0wLjIwMzEybDIuMTQwNi03LjA2MjVjMC4wMzEyNS0wLjE0MDYyLTAuMDE1NjI1LTAuMjE4NzUtMC4xNzE4OC0wLjIxODc1aC0wLjY3MTg4Yy0wLjE0MDYyIDAtMC4yMDMxMiAwLjA3ODEyNS0wLjIzNDM4IDAuMjE4NzVsLTEuMzc1IDQuNTc4MWMtMC4xMjUgMC40MDYyNS0wLjI4MTI1IDEuMzI4MS0wLjI4MTI1IDEuMzI4MXMtMC4xMDkzOC0wLjg5MDYyLTAuMjUtMS4zNDM4bC0xLjM1OTQtNC41NjI1Yy0wLjA0Njg3NS0wLjE0MDYyLTAuMTA5MzgtMC4yMTg3NS0wLjI1LTAuMjE4NzVoLTAuNzM0MzhjLTAuMTQwNjIgMC0wLjIwMzEyIDAuMDc4MTI1LTAuMTU2MjUgMC4yMTg3NWwyLjE0MDYgNy4wNjI1YzAuMDMxMjUgMC4xNDA2MiAwLjEwOTM4IDAuMjAzMTIgMC4yNjU2MiAwLjIwMzEyeiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoNS0xMiIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtMy4xNTYyLTMuNzk2OSAyLjU0NjktMy40Njg4YzAuMDc4MTI1LTAuMTA5MzggMC4wNDY4NzUtMC4yMTg3NS0wLjA5Mzc1LTAuMjE4NzVoLTAuNzE4NzVjLTAuMTU2MjUgMC0wLjI2NTYyIDAuMTA5MzgtMC4zNDM3NSAwLjIxODc1bC0yLjI5NjkgMy4xNDA2aC0wLjI2NTYydi0zLjE0MDZjMC0wLjE0MDYyLTAuMDYyNS0wLjIxODc1LTAuMjE4NzUtMC4yMTg3NWgtMC42NzE4OGMtMC4xNDA2MiAwLTAuMTg3NSAwLjA3ODEyNS0wLjE4NzUgMC4yMTg3NXY3LjA2MjVjMCAwLjE0MDYyIDAuMDQ2ODc1IDAuMjAzMTIgMC4xODc1IDAuMjAzMTJoMC42NzE4OGMwLjE1NjI1IDAgMC4yMTg3NS0wLjA2MjUgMC4yMTg3NS0wLjIwMzEydi0zLjEyNWgwLjI2NTYybDIuNDY4OCAzLjEyNWMwLjA3ODEyNSAwLjEwOTM4IDAuMTcxODggMC4yMDMxMiAwLjMxMjUgMC4yMDMxMmgwLjg3NWMwLjE0MDYyIDAgMC4xNzE4OC0wLjEwOTM4IDAuMDkzNzUtMC4yMDMxMnoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDUtMTMiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTAuOTg0MzgtN2MtMC4xMjUgMC4wMzEyNS0wLjIwMzEyIDAuMDkzNzUtMC4yMDMxMiAwLjI1djAuNTMxMjVjMCAwLjE0MDYyIDAuMDc4MTI1IDAuMjAzMTIgMC4yMDMxMiAwLjE4NzVsMS42NDA2LTAuMzI4MTJ2NS40NTMxaC0xLjY0MDZjLTAuMTQwNjIgMC0wLjIxODc1IDAuMDMxMjUtMC4yMTg3NSAwLjE4NzV2MC41MTU2MmMwIDAuMTQwNjIgMC4wNzgxMjUgMC4yMDMxMiAwLjIxODc1IDAuMjAzMTJoNC4zNDM4YzAuMTQwNjIgMCAwLjIwMzEyLTAuMDYyNSAwLjIwMzEyLTAuMjAzMTJ2LTAuNTE1NjJjMC0wLjE1NjI1LTAuMDYyNS0wLjE4NzUtMC4yMDMxMi0wLjE4NzVoLTEuNjI1di02LjQzNzVjMC0wLjE4NzUtMC4xMDkzOC0wLjIxODc1LTAuMTg3NS0wLjE4NzV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg2LTEiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibS00Ljc2NTYtMS42NzE5YzAgMC4wOTM3NSAwLjA0Njg3NSAwLjE0MDYyIDAuMTQwNjIgMC4xNzE4OGw0LjQ4NDQgMS4zNTk0YzAuMDkzNzUgMC4wMzEyNSAwLjE0MDYyIDAgMC4xNDA2Mi0wLjA5Mzc1di0wLjQwNjI1YzAtMC4wOTM3NS0wLjA0Njg3NS0wLjE0MDYyLTAuMTQwNjItMC4xNTYyNWwtMS4wNzgxLTAuMzI4MTJ2LTEuNDY4OGwxLjA3ODEtMC4zMjgxMmMwLjA5Mzc1LTAuMDMxMjUgMC4xNDA2Mi0wLjA2MjUgMC4xNDA2Mi0wLjE1NjI1di0wLjQzNzVjMC0wLjEwOTM4LTAuMDQ2ODc1LTAuMTQwNjItMC4xNDA2Mi0wLjEwOTM4bC00LjQ4NDQgMS4zNTk0Yy0wLjA5Mzc1IDAuMDMxMjUtMC4xNDA2MiAwLjA3ODEyNS0wLjE0MDYyIDAuMTcxODh6bTMtMC43ODEyNXYxLjE3MTlsLTEuMjgxMi0wLjM5MDYyYy0wLjMxMjUtMC4wOTM3NS0wLjk1MzEyLTAuMTg3NS0xLjAxNTYtMC4yMDMxMiAwLjA3ODEyNSAwIDAuNzY1NjItMC4wOTM3NSAxLjAzMTItMC4xODc1eiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoNi0yIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0tNC42MjUtNC41NzgxYy0wLjA5Mzc1IDAtMC4xNDA2MiAwLjA0Njg3NS0wLjE0MDYyIDAuMTQwNjJ2MC40MDYyNWMwIDAuMDYyNSAwLjAxNTYyNSAwLjA5Mzc1IDAuMDYyNSAwLjEyNWwyLjg0MzggMS4xODc1YzAuMTA5MzggMC4wNDY4NzUgMC4zNzUgMC4xNDA2MiAwLjQwNjI1IDAuMTU2MjUtMC4wMzEyNSAwLTAuMjk2ODggMC4wOTM3NS0wLjQyMTg4IDAuMTQwNjJsLTIuODEyNSAxLjIwMzFjLTAuMDQ2ODc1IDAuMDMxMjUtMC4wNzgxMjUgMC4wNjI1LTAuMDc4MTI1IDAuMTI1djAuMzkwNjJjMCAwLjA5Mzc1IDAuMDQ2ODc1IDAuMTI1IDAuMTQwNjIgMC4xMjVoNC40ODQ0YzAuMDkzNzUgMCAwLjE0MDYyLTAuMDMxMjUgMC4xNDA2Mi0wLjEyNXYtMC4zOTA2MmMwLTAuMDkzNzUtMC4wNDY4NzUtMC4xMjUtMC4xNDA2Mi0wLjEyNWgtMy4xODc1YzAuMDE1NjI1IDAgMC4yNjU2Mi0wLjA2MjUgMC40MjE4OC0wLjEyNWwyLjA0NjktMC44NzVjMC4wNzgxMjUtMC4wMzEyNSAwLjE0MDYyLTAuMDc4MTI1IDAuMTQwNjItMC4xNzE4OHYtMC4zNTkzOGMwLTAuMDc4MTI1LTAuMDQ2ODc1LTAuMTQwNjItMC4xNDA2Mi0wLjE3MTg4bC0xLjk2ODgtMC44MTI1Yy0wLjE1NjI1LTAuMDYyNS0wLjQ4NDM4LTAuMTU2MjUtMC41MTU2Mi0wLjE3MTg4aDMuMjAzMWMwLjA5Mzc1IDAgMC4xNDA2Mi0wLjAzMTI1IDAuMTQwNjItMC4xMjV2LTAuNDA2MjVjMC0wLjA5Mzc1LTAuMDQ2ODc1LTAuMTQwNjItMC4xNDA2Mi0wLjE0MDYyeiIvPgogIDwvc3ltYm9sPgogIDxzeW1ib2wgaWQ9ImdseXBoNi0zIiBvdmVyZmxvdz0idmlzaWJsZSI+CiAgIDxwYXRoIGQ9Im0tMy40Mzc1LTIuODc1YzAuMDkzNzUgMCAwLjE0MDYyLTAuMDE1NjI1IDAuMTQwNjItMC4xMjV2LTAuNDA2MjVjMC0wLjA5Mzc1LTAuMDQ2ODc1LTAuMTI1LTAuMTQwNjItMC4xMjVoLTAuMjk2ODhjLTAuNTc4MTIgMC0xLjA3ODEgMC4zNzUtMS4wNzgxIDEuNTE1NnMwLjUgMS41IDEuMDc4MSAxLjVoMC4zOTA2MmMwLjQzNzUgMCAwLjc1LTAuMzEyNSAwLjg3NS0wLjYyNWwwLjQ1MzEyLTEuMTcxOWMwLjEwOTM4LTAuMjgxMjUgMC4yMTg3NS0wLjU5Mzc1IDAuNTc4MTItMC41OTM3NWgwLjMyODEyYzAuMzc1IDAgMC41OTM3NSAwLjI4MTI1IDAuNTkzNzUgMC45MDYyNXMtMC4yMTg3NSAwLjg5MDYyLTAuNTkzNzUgMC44OTA2MmgtMC4zMTI1Yy0wLjEwOTM4IDAtMC4xNDA2MiAwLjAzMTI1LTAuMTQwNjIgMC4xMjV2MC40MjE4OGMwIDAuMDkzNzUgMC4wMzEyNSAwLjEyNSAwLjE0MDYyIDAuMTI1aDAuNDA2MjVjMC41NjI1IDAgMS4wNzgxLTAuNDA2MjUgMS4wNzgxLTEuNTc4MSAwLTEuMTU2Mi0wLjUxNTYyLTEuNTYyNS0xLjA3ODEtMS41NjI1aC0wLjU5Mzc1Yy0wLjUxNTYyIDAtMC43ODEyNSAwLjM0Mzc1LTAuOTUzMTIgMC43NjU2MmwtMC40Njg3NSAxLjI4MTJjLTAuMDYyNSAwLjE0MDYyLTAuMTU2MjUgMC4zNTkzOC0wLjQ2ODc1IDAuMzU5MzhoLTAuMTQwNjJjLTAuMzkwNjIgMC0wLjU5Mzc1LTAuMjM0MzgtMC41OTM3NS0wLjg0Mzc1IDAtMC42MjUgMC4yMDMxMi0wLjg1OTM4IDAuNTkzNzUtMC44NTkzOHoiLz4KICA8L3N5bWJvbD4KICA8c3ltYm9sIGlkPSJnbHlwaDYtNCIgb3ZlcmZsb3c9InZpc2libGUiPgogICA8cGF0aCBkPSJtLTQuNDUzMS0wLjYyNWMwLjAxNTYyNSAwLjA3ODEyNSAwLjA2MjUgMC4xMjUgMC4xNTYyNSAwLjEyNWgwLjM0Mzc1YzAuMDkzNzUgMCAwLjEyNS0wLjA0Njg3NSAwLjEwOTM4LTAuMTI1bC0wLjIwMzEyLTEuMDQ2OWgzLjQ2ODh2MS4wNDY5YzAgMC4wOTM3NSAwLjAzMTI1IDAuMTQwNjIgMC4xMjUgMC4xNDA2MmgwLjMxMjVjMC4xMDkzOCAwIDAuMTQwNjItMC4wNDY4NzUgMC4xNDA2Mi0wLjE0MDYydi0yLjc2NTZjMC0wLjA5Mzc1LTAuMDMxMjUtMC4xMjUtMC4xNDA2Mi0wLjEyNWgtMC4zMTI1Yy0wLjA5Mzc1IDAtMC4xMjUgMC4wMzEyNS0wLjEyNSAwLjEyNXYxLjAzMTJoLTQuMDkzOGMtMC4xMDkzOCAwLTAuMTQwNjIgMC4wNzgxMjUtMC4xMjUgMC4xMjV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg2LTUiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibS00Ljc2NTYtMC40Njg3NWMwIDAuMDkzNzUgMC4wNDY4NzUgMC4xMjUgMC4xNDA2MiAwLjEyNWgwLjMxMjVjMC4wOTM3NSAwIDAuMTQwNjItMC4wMzEyNSAwLjE0MDYyLTAuMTI1di0yLjI5NjlsNC4wMzEyIDEuNzVjMC4wOTM3NSAwLjAzMTI1IDAuMTQwNjIgMCAwLjE0MDYyLTAuMDkzNzV2LTAuNWMwLTAuMDc4MTI1LTAuMDYyNS0wLjEyNS0wLjE0MDYyLTAuMTU2MjVsLTQuMDYyNS0xLjc1Yy0wLjA0Njg3NS0wLjAzMTI1LTAuMDkzNzUtMC4wMzEyNS0wLjE0MDYyLTAuMDMxMjVoLTAuMjgxMjVjLTAuMDkzNzUgMC0wLjE0MDYyIDAuMDQ2ODc1LTAuMTQwNjIgMC4xMjV6Ii8+CiAgPC9zeW1ib2w+CiAgPHN5bWJvbCBpZD0iZ2x5cGg3LTEiIG92ZXJmbG93PSJ2aXNpYmxlIj4KICAgPHBhdGggZD0ibTEuNjU2Mi0xLjg0MzgtMC40ODQzOCAwLjUxNTYydjEuMzI4MWgtMC43MzQzOHYtNC4yNjU2aDAuNzM0Mzh2MmwwLjQwNjI1LTAuNSAxLjI1LTEuNWgwLjkwNjI1bC0xLjU5MzggMS44OTA2IDEuNjg3NSAyLjM3NWgtMC44OTA2MnoiLz4KICA8L3N5bWJvbD4KIDwvZGVmcz4KIDxwYXRoIGQ9Im0wLjUgMzAuNTJ2LTMwLjAyaDIzNS4yOHY0MjQuMzloLTIzNS4yOHoiIGZpbGw9IiM1NzhhYjgiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CiA8ZyBmaWxsPSIjZmZmOGI4IiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+CiAgPHBhdGggZD0ibTkuMDAzOSAzNy4zNTJoMTEuMzR2MTEuMzRoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im05LjAwMzkgNTcuMTk1aDExLjM0djExLjMzNmgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTkuMDAzOSA3Ny4wMzVoMTEuMzR2MTEuMzRoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im05LjAwMzkgOTYuODc5aDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtOS4wMDM5IDExNi43MmgxMS4zNHYxMS4zMzZoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im05LjAwMzkgMTM2LjU2aDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtOS4wMDM5IDE1Ni40MWgxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTkuMDAzOSAxNzYuMjVoMTEuMzR2MTEuMzM2aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtOS4wMDM5IDE5Ni4wOWgxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTkuMDAzOSAyMTUuOTNoMTEuMzR2MTEuMzRoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im05LjAwMzkgMjM1Ljc4aDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtOS4wMDM5IDI1NS42MmgxMS4zNHYxMS4zMzZoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im05LjAwMzkgMjc1LjQ2aDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtOS4wMDM5IDI5NS4zaDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtOS4wMDM5IDMxNS4xNWgxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTkuMDAzOSAzMzQuOTloMTEuMzR2MTEuMzRoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im05LjAwMzkgMzU0LjgzaDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtOS4wMDM5IDM3NC42OGgxMS4zNHYxMS4zMzZoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im0yMTUuOTMgMzcuMzUyaDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtMjE1LjkzIDU3LjE5NWgxMS4zNHYxMS4zMzZoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im0yMTUuOTMgNzcuMDM1aDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtMjE1LjkzIDk2Ljg3OWgxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTIxNS45MyAxMTYuNzJoMTEuMzR2MTEuMzM2aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtMjE1LjkzIDEzNi41NmgxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTIxNS45MyAxNTYuNDFoMTEuMzR2MTEuMzRoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im0yMTUuOTMgMTc2LjI1aDExLjM0djExLjMzNmgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTIxNS45MyAxOTYuMDloMTEuMzR2MTEuMzRoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im0yMTUuOTMgMjE1LjkzaDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtMjE1LjkzIDIzNS43OGgxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTIxNS45MyAyNTUuNjJoMTEuMzR2MTEuMzM2aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtMjE1LjkzIDI3NS40NmgxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTIxNS45MyAyOTUuM2gxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTIxNS45MyAzMTUuMTVoMTEuMzR2MTEuMzRoLTExLjM0eiIvPgogIDxwYXRoIGQ9Im0yMTUuOTMgMzM0Ljk5aDExLjM0djExLjM0aC0xMS4zNHoiLz4KICA8cGF0aCBkPSJtMjE1LjkzIDM1NC44M2gxMS4zNHYxMS4zNGgtMTEuMzR6Ii8+CiAgPHBhdGggZD0ibTIxNS45MyAzNzQuNjhoMTEuMzR2MTEuMzM2aC0xMS4zNHoiLz4KIDwvZz4KIDxwYXRoIGQ9Im02LjE3MTkgMTYuMDljMC00LjY5MTQgMy44MTI1LTguNTAzOSA4LjUwMzktOC41MDM5IDQuNjkxNCAwIDguNTAzOSAzLjgxMjUgOC41MDM5IDguNTAzOSAwIDQuNjk1My0zLjgxMjUgOC41MDM5LTguNTAzOSA4LjUwMzktNC42OTE0IDAtOC41MDM5LTMuODA4Ni04LjUwMzktOC41MDM5eiIgZmlsbD0iI2ZmZiIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiLz4KIDxwYXRoIGQ9Im0yMTMuMSAxNC42NmMwLTQuNjgzNiAzLjgwNDctOC40ODgzIDguNDg4My04LjQ4ODMgNC42ODM2IDAgOC40ODgzIDMuODA0NyA4LjQ4ODMgOC40ODgzcy0zLjgwNDcgOC40ODgzLTguNDg4MyA4LjQ4ODNjLTQuNjgzNiAwLTguNDg4My0zLjgwNDctOC40ODgzLTguNDg4M3oiIGZpbGw9IiNmZmYiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CiA8ZyBmaWxsPSIjZWJlYmViIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+CiAgPHBhdGggZD0ibTY4LjUzNSAzMDguNDNoLTExLjM0djI1LjE0OGgxMS4zNCIvPgogIDxwYXRoIGQ9Im05MS4yMTEgMzMwLjc0aDguNTAzOXY4LjUwMzloLTguNTAzOSIvPgogIDxwYXRoIGQ9Im05MS4yMTEgMzE2LjU3aDguNTAzOXY4LjUwMzloLTguNTAzOSIvPgogIDxwYXRoIGQ9Im05MS4yMTEgMzAyLjM5aDguNTAzOXY4LjUwMzloLTguNTAzOSIvPgogPC9nPgogPGcgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgogIDxwYXRoIGQ9Im02OC4zOTUgMjk5LjU2aDIyLjgxNnY0Mi41MmgtMjIuODE2eiIgZmlsbD0iIzY4Njg2OCIvPgogIDxwYXRoIGQ9Im00OC42OTEgNDExLjUyaDEwLjEwMnY4LjUwNzhoLTEwLjEwMnoiIGZpbGw9IiNlYmViZWIiLz4KICA8cGF0aCBkPSJtNDguNjkxIDM4My4xOGgxMC4xMDJ2OC41MDM5aC0xMC4xMDJ6IiBmaWxsPSIjZWJlYmViIi8+CiAgPHBhdGggZD0ibTQzLjgyIDM4Ny40M2gxOS44NDR2MjguMzQ4aC0xOS44NDR6IiBmaWxsPSIjZDdkN2Q3Ii8+CiAgPHBhdGggZD0ibTQ3LjEwNSA0MDEuNjFjMC0zLjY2NDEgMi45NzI3LTYuNjQwNiA2LjYzNjctNi42NDA2czYuNjM2NyAyLjk3NjYgNi42MzY3IDYuNjQwNmMwIDMuNjYwMi0yLjk3MjcgNi42MzY3LTYuNjM2NyA2LjYzNjdzLTYuNjM2Ny0yLjk3NjYtNi42MzY3LTYuNjM2N3oiIGZpbGw9IiM2ODY4NjgiLz4KICA8cGF0aCBkPSJtMTc1LjQ1IDQxMS41MmgxMC4xMDV2OC41MDc4aC0xMC4xMDV6IiBmaWxsPSIjZWJlYmViIi8+CiAgPHBhdGggZD0ibTE3NS40NSAzODMuMThoMTAuMTA1djguNTAzOWgtMTAuMTA1eiIgZmlsbD0iI2ViZWJlYiIvPgogIDxwYXRoIGQ9Im0xNzAuNTggMzg3LjQzaDE5Ljg0djI4LjM0OGgtMTkuODR6IiBmaWxsPSIjZDdkN2Q3Ii8+CiAgPHBhdGggZD0ibTE3My44OCA0MDEuNjFjMC0zLjY2NDEgMi45NzY2LTYuNjQwNiA2LjY0MDYtNi42NDA2IDMuNjYwMiAwIDYuNjM2NyAyLjk3NjYgNi42MzY3IDYuNjQwNiAwIDMuNjYwMi0yLjk3NjYgNi42MzY3LTYuNjM2NyA2LjYzNjctMy42NjQxIDAtNi42NDA2LTIuOTc2Ni02LjY0MDYtNi42MzY3eiIgZmlsbD0iIzY4Njg2OCIvPgogPC9nPgogPGcgZmlsbD0iI2ViZWJlYiIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgogIDxwYXRoIGQ9Im0xMTguMTQgMjY1Ljk5aC01LjY3MTl2NS42NjhoNS42NzE5Ii8+CiAgPHBhdGggZD0ibTExOC4xNCAyNTQuMmgtNS42NzE5djUuNjY4aDUuNjcxOSIvPgogIDxwYXRoIGQ9Im0xMjkuNDggMjU5LjU5aDUuNjcxOXY1LjY2OGgtNS42NzE5Ii8+CiA8L2c+CiA8cGF0aCBkPSJtMTE4LjE0IDI1MS4zN2gxMS41Mjd2MjIuNjc2aC0xMS41Mjd6IiBmaWxsPSIjNjg2ODY4IiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgogPGcgZmlsbD0iI2ViZWJlYiIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgogIDxwYXRoIGQ9Im0xNzIuODMgMjY1Ljk5aDUuNjY4djUuNjY4aC01LjY2OCIvPgogIDxwYXRoIGQ9Im0xNzIuODMgMjU0LjJoNS42Njh2NS42NjhoLTUuNjY4Ii8+CiAgPHBhdGggZD0ibTE2MS40OSAyNTkuNTloLTUuNjY4djUuNjY4aDUuNjY4Ii8+CiA8L2c+CiA8ZyBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+CiAgPHBhdGggZD0ibTE3Mi44NCAyNTEuMzhoLTExLjV2MjIuNjc2aDExLjV6IiBmaWxsPSIjNjg2ODY4Ii8+CiAgPHBhdGggZD0ibTE0Ni40OCA0MjcuMTJ2LTM5LjY4OGgtNTYuNjkxdjM5LjY4OHoiIGZpbGw9IiNlYmViZWIiLz4KICA8cGF0aCBkPSJtOTQuMDQzIDM4Ny40M3YyLjgzNTloOC41MDM5di0yLjgzNTkiIGZpbGw9Im5vbmUiLz4KICA8cGF0aCBkPSJtMTQyLjIzIDM4Ny40M3YyLjgzNTloLTguNTAzOXYtMi44MzU5IiBmaWxsPSJub25lIi8+CiAgPHBhdGggZD0ibTEwMy43MiA0MTAuNjZ2LTQuNTYyNWgtNC41NjI1djQuNTYyNWwtMi4yODEyIDIuMjgxMmg5LjEyMTF6IiBmaWxsPSIjOWU5ZTllIi8+CiAgPHBhdGggZD0ibTEzOC4xMSA0MTAuNjZ2LTQuNTYyNWgtNC41NjI1djQuNTYyNWwtMi4yNzczIDIuMjgxMmg5LjEyMTF6IiBmaWxsPSIjOWU5ZTllIi8+CiA8L2c+CiA8ZyBmaWxsPSIjZmZmIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+CiAgPHBhdGggZD0ibTk4LjI5NyAzODcuNDN2LTUuNjY4aDUuNjY4djUuNjY4Ii8+CiAgPHBhdGggZD0ibTEwNi44IDM4Ny40M3YtNS42NjhoNS42Njh2NS42NjgiLz4KICA8cGF0aCBkPSJtMTE1LjMgMzg3LjQzdi01LjY2OGg1LjY2OHY1LjY2OCIvPgogIDxwYXRoIGQ9Im0xMjMuODEgMzg3LjQzdi01LjY2OGg1LjY2OHY1LjY2OCIvPgogIDxwYXRoIGQ9Im0xMzIuMzEgMzg3LjQzdi01LjY2OGg1LjY2OHY1LjY2OCIvPgogPC9nPgogPGcgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgogIDxwYXRoIGQ9Im03OS44NzEgMjU1LjYyaDUuNjcxOXYxNC4xNzJoLTUuNjcxOXoiIGZpbGw9IiNlYmViZWIiLz4KICA8cGF0aCBkPSJtNDguNjkxIDI1NS42Mmg1LjY2OHYxNC4xNzJoLTUuNjY4eiIgZmlsbD0iI2ViZWJlYiIvPgogIDxwYXRoIGQ9Im01MS41MjMgMjU0LjJoMzEuMTg0djE3LjAwOGgtMzEuMTg0eiIgZmlsbD0iI2ZhZDk1NyIvPgogIDxwYXRoIGQ9Im01Ni41MzUgMjU0LjJoLTUuMDExNyA0LjQ0OTJ2MTcuMDA4aC00LjQ0OTJ2LTE3LjAwOCIgZmlsbD0iI2Y1YzU0NyIvPgogPC9nPgogPGcgZmlsbD0iI2ZmZiIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgogIDxwYXRoIGQ9Im02LjE3MTkgNDA5LjVjMC00LjY5MTQgMy44MTI1LTguNTAzOSA4LjUwMzktOC41MDM5IDQuNjkxNCAwIDguNTAzOSAzLjgxMjUgOC41MDM5IDguNTAzOSAwIDQuNjk1My0zLjgxMjUgOC41MDM5LTguNTAzOSA4LjUwMzktNC42OTE0IDAtOC41MDM5LTMuODA4Ni04LjUwMzktOC41MDM5eiIvPgogIDxwYXRoIGQ9Im0yMTIuODggNDEwLjExYzAtNC42OTE0IDMuODEyNS04LjUwMzkgOC41MDM5LTguNTAzOSA0LjY5NTMgMCA4LjUwMzkgMy44MTI1IDguNTAzOSA4LjUwMzlzLTMuODA4NiA4LjUwMzktOC41MDM5IDguNTAzOWMtNC42OTE0IDAtOC41MDM5LTMuODEyNS04LjUwMzktOC41MDM5eiIvPgogIDxnIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICA8cGF0aCBkPSJtMTQyLjIzIDMwMi4zOWgtMi44MzU5djIuODM1OWgyLjQyOTciLz4KICAgPHBhdGggZD0ibTE4NC43NSAzMzYuNDFoMi44MzU5djIuODM1OWgtMi44MzU5Ii8+CiAgIDxwYXRoIGQ9Im0xODQuNzUgMzMwLjc0aDIuODM1OXYyLjgzNTloLTIuODM1OSIvPgogICA8cGF0aCBkPSJtMTg0Ljc1IDMyNS4wN2gyLjgzNTl2Mi44MzJoLTIuODM1OSIvPgogICA8cGF0aCBkPSJtMTg0Ljc1IDMxOS40aDIuODM1OXYyLjgzNTloLTIuODM1OSIvPgogICA8cGF0aCBkPSJtMTg0Ljc1IDMxMy43M2gyLjgzNTl2Mi44MzU5aC0yLjgzNTkiLz4KICAgPHBhdGggZD0ibTE4NC43NSAzMDguMDZoMi44MzU5djIuODMyaC0yLjgzNTkiLz4KICAgPHBhdGggZD0ibTE4NC43NSAzMDIuMzloMi44MzU5djIuODM1OWgtMi44MzU5Ii8+CiAgIDxwYXRoIGQ9Im0xNzkuMDkgMjk5LjU2di0yLjgzNTloMi44MzJ2Mi44MzU5Ii8+CiAgIDxwYXRoIGQ9Im0xNzMuNDEgMjk5LjU2di0yLjgzNTloMi44MzU5djIuODM1OSIvPgogICA8cGF0aCBkPSJtMTY3Ljc1IDI5OS41NnYtMi44MzU5aDIuODM1OXYyLjgzNTkiLz4KICAgPHBhdGggZD0ibTE2Mi4wOCAyOTkuNTZ2LTIuODM1OWgyLjgzMnYyLjgzNTkiLz4KICAgPHBhdGggZD0ibTE1Ni41MyAyOTkuNTZ2LTIuODM1OWgyLjcxMDl2Mi44MzU5Ii8+CiAgIDxwYXRoIGQ9Im0xNTAuNzQgMjk5LjU2di0yLjgzNTloMi44MzU5djIuODM1OSIvPgogICA8cGF0aCBkPSJtMTQ1LjA3IDI5OS41NnYtMi44MzU5aDIuODMydjIuODM1OSIvPgogICA8cGF0aCBkPSJtMTc5LjA5IDM0Mi4wOHYyLjgzMmgyLjgzMnMtNGUtMyAtMi44MzIgMC0yLjgzMiIvPgogICA8cGF0aCBkPSJtMTczLjQxIDM0Mi4wOHYyLjgzMmgyLjgzNTl2LTIuODMyIi8+CiAgIDxwYXRoIGQ9Im0xNjcuNzUgMzQyLjA4djIuODMyaDIuODM1OXYtMi44MzIiLz4KICAgPHBhdGggZD0ibTE2Mi4wOCAzNDIuMDh2Mi44MzJoMi44MzJ2LTIuODMyIi8+CiAgIDxwYXRoIGQ9Im0xNTYuNDEgMzQyLjA4djIuODMyaDIuODM1OXYtMi44MzIiLz4KICAgPHBhdGggZD0ibTE1MC43NCAzNDIuMDh2Mi44MzJoMi44MzU5di0yLjgzMiIvPgogICA8cGF0aCBkPSJtMTQ1LjA3IDM0Mi4wOHYyLjgzMmgyLjgzMnYtMi44MzIiLz4KICAgPHBhdGggZD0ibTE0Mi4yMyAzMzYuNDFoLTIuODM1OXYyLjgzNTloMi44MzU5Ii8+CiAgIDxwYXRoIGQ9Im0xNDIuMjMgMzMwLjc0aC0yLjgzNTl2Mi44MzU5aDIuODM1OSIvPgogICA8cGF0aCBkPSJtMTQyLjIzIDMyNS4wN2gtMi44MzU5djIuODMyaDIuODM1OSIvPgogICA8cGF0aCBkPSJtMTQyLjIzIDMxOS40aC0yLjgzNTl2Mi44MzU5aDIuODM1OSIvPgogICA8cGF0aCBkPSJtMTQyLjIzIDMxMy43M2gtMi44MzU5djIuODM1OWgyLjgzNTkiLz4KICAgPHBhdGggZD0ibTE0Mi4yMyAzMDguMDZoLTIuODM1OXYyLjgzMmgyLjgzNTkiLz4KICA8L2c+CiA8L2c+CiA8Zz4KICA8cGF0aCBkPSJtMTQyLjIzIDI5OS41Nmg0Mi41MnY0Mi41MmgtNDIuNTJ6IiBmaWxsPSIjNjg2ODY4IiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03MjcuNTcgLTMwNS42NCkiIGZpbGw9IiNlM2UzZTMiPgogICA8dXNlIHg9Ijg3Ni42OSIgeT0iNjI5LjM4OCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMS0xIi8+CiAgIDx1c2UgeD0iODgxLjY5IiB5PSI2MjkuMzg4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgxLTIiLz4KICAgPHVzZSB4PSI4ODYuNzg5OTgiIHk9IjYyOS4zODgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDEtMyIvPgogICA8dXNlIHg9Ijg5MS42OSIgeT0iNjI5LjM4OCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMS00Ii8+CiAgIDx1c2UgeD0iODk2LjU5MDAzIiB5PSI2MjkuMzg4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgxLTUiLz4KICAgPHVzZSB4PSI5MDEuNDg5OTkiIHk9IjYyOS4zODgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDEtMyIvPgogIDwvZz4KICA8cGF0aCBkPSJtNjIuODYzIDM4LjY3NnYtMzguMTc2aDExMy4zOWMwLjU0Mjk3IDAgMCAzOC4xNzYgMCAzOC4xNzYiIGZpbGw9IiM2MzYzNjMiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CiA8L2c+CiA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+CiAgPHBhdGggZD0ibTE0Ny45IDIyLjA5NHYtMTUuOTIyIi8+CiAgPHBhdGggZD0ibTcwLjE5NSAxNTkuMjRjMC0yLjIxMDkgMS43OTMtNC4wMTE3IDQuMDA3OC00LjAxMTcgMi4yMTA5IDAgNC4wMDc4IDEuODAwOCA0LjAwNzggNC4wMTE3cy0xLjc5NjkgNC4wMDc4LTQuMDA3OCA0LjAwNzhjLTIuMjE0OCAwLTQuMDA3OC0xLjc5NjktNC4wMDc4LTQuMDA3OHoiLz4KICA8cGF0aCBkPSJtNzAuMTk1IDE1OS4yNGMwLTIuMjEwOSAxLjc5My00LjAxMTcgNC4wMDc4LTQuMDExNyAyLjIxMDkgMCA0LjAwNzggMS44MDA4IDQuMDA3OCA0LjAxMTdzLTEuNzk2OSA0LjAwNzgtNC4wMDc4IDQuMDA3OGMtMi4yMTQ4IDAtNC4wMDc4LTEuNzk2OS00LjAwNzgtNC4wMDc4eiIvPgogPC9nPgogPGcgZmlsbD0iI2ZmZjhiOCIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgogIDxwYXRoIGQ9Im03My41NjYgMTcwLjU4djUuNjY4aDUuMzQzOHYtNS42NjgiLz4KICA8cGF0aCBkPSJtMTU5LjkzIDE3MC41OHY1LjY2OGg1LjM0NzZ2LTUuNjY4Ii8+CiAgPHBhdGggZD0ibTE1MC4zNCAxNzAuNTh2NS42NjhoNS4zNDM4di01LjY2OCIvPgogIDxwYXRoIGQ9Im0xNDAuNzQgMTcwLjU4djUuNjY4aDUuMzQzOHYtNS42NjgiLz4KICA8cGF0aCBkPSJtMTMxLjE0IDE3MC41OHY1LjY2OGg1LjM0Nzd2LTUuNjY4Ii8+CiAgPHBhdGggZD0ibTEyMS41NSAxNzAuNTh2NS42NjhoNS4zNDM4di01LjY2OCIvPgogIDxwYXRoIGQ9Im0xMTEuOTUgMTcwLjU4djUuNjY4aDUuMzQzOHYtNS42NjgiLz4KICA8cGF0aCBkPSJtMTAyLjM2IDE3MC41OHY1LjY2OGg1LjM0Nzd2LTUuNjY4Ii8+CiAgPHBhdGggZD0ibTkyLjc1OCAxNzAuNTh2NS42NjhoNS4zNDc3di01LjY2OCIvPgogIDxwYXRoIGQ9Im04My4xNjQgMTcwLjU4djUuNjY4aDUuMzQzOHYtNS42NjgiLz4KICA8cGF0aCBkPSJtMTc2LjI1IDE2NGg2LjEwMTZ2LTUuMzQ3N2gtNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTE3Ni4yNSAxNTUuMjNoNi4xMDE2di01LjM0MzhoLTYuMTAxNiIvPgogIDxwYXRoIGQ9Im0xNzYuMjUgMTQ2LjQ3aDYuMTAxNnYtNS4zNDc3aC02LjEwMTYiLz4KICA8cGF0aCBkPSJtMTc2LjI1IDEzNy43NGg2LjEwMTZ2LTUuMzQ3N2gtNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTE3Ni4yNSAxMjloNi4xMDE2di01LjM0MzhoLTYuMTAxNiIvPgogIDxwYXRoIGQ9Im0xNzYuMjUgMTIwLjM3aDYuMTAxNnYtNS4zNDc3aC02LjEwMTYiLz4KICA8cGF0aCBkPSJtMTc2LjI1IDExMS41OGg2LjEwMTZ2LTUuMzQzOGgtNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTE3Ni4yNSAxMDIuOTZoNi4xMDE2di01LjM0MzhoLTYuMTAxNiIvPgogIDxwYXRoIGQ9Im0xNzYuMjUgOTQuMjgxaDYuMTAxNnYtNS4zNDM4aC02LjEwMTYiLz4KICA8cGF0aCBkPSJtMTc2LjI1IDg1LjU2Nmg2LjEwMTZ2LTUuMzQzOGgtNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTE3Ni4yNSA3Ni45NDVoNi4xMDE2di01LjM0MzhoLTYuMTAxNiIvPgogIDxwYXRoIGQ9Im0xNzYuMjUgNjguMzI0aDYuMTAxNnYtNS4zNDc2aC02LjEwMTYiLz4KICA8cGF0aCBkPSJtMTc2LjI1IDU5LjYwOWg2LjEwMTZ2LTUuMzQzOGgtNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTE3Ni4yNSA1MC43MzRoNi4xMDE2di01LjM0MzhoLTYuMTAxNiIvPgogIDxwYXRoIGQ9Im02Mi44NjMgNTAuNzM0aC02LjEwMTZ2LTUuMzQzOGg2LjEwMTYiLz4KICA8cGF0aCBkPSJtNjIuODYzIDU5LjYwOWgtNi4xMDE2di01LjM0MzhoNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTYyLjg2MyA2OC4zMjRoLTYuMTAxNnYtNS4zNDc2aDYuMTAxNiIvPgogIDxwYXRoIGQ9Im02Mi44NjMgNzYuOTQ1aC02LjEwMTZ2LTUuMzQzOGg2LjEwMTYiLz4KICA8cGF0aCBkPSJtNjIuODYzIDg1LjU2NmgtNi4xMDE2di01LjM0MzhoNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTYyLjg2MyA5NC4yODFoLTYuMTAxNnYtNS4zNDM4aDYuMTAxNiIvPgogIDxwYXRoIGQ9Im02Mi44NjMgMTAyLjk2aC02LjEwMTZ2LTUuMzQzOGg2LjEwMTYiLz4KICA8cGF0aCBkPSJtNjIuODYzIDExMS41OGgtNi4xMDE2di01LjM0MzhoNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTYyLjg2MyAxMjAuMzdoLTYuMTAxNnYtNS4zNDc3aDYuMTAxNiIvPgogIDxwYXRoIGQ9Im02Mi44NjMgMTI5aC02LjEwMTZ2LTUuMzQzOGg2LjEwMTYiLz4KICA8cGF0aCBkPSJtNjIuODYzIDEzNy43NGgtNi4xMDE2di01LjM0NzdoNi4xMDE2Ii8+CiAgPHBhdGggZD0ibTYyLjg2MyAxNDYuNDdoLTYuMTAxNnYtNS4zNDc3aDYuMTAxNiIvPgogIDxwYXRoIGQ9Im02Mi44NjMgMTU1LjIzaC02LjEwMTZ2LTUuMzQzOGg2LjEwMTYiLz4KICA8cGF0aCBkPSJtNjIuODYzIDE2NGgtNi4xMDE2di01LjM0NzdoNi4xMDE2Ii8+CiA8L2c+CiA8Zz4KICA8cGF0aCBkPSJtNjIuODYzIDM4LjY3NmgxMTMuMzl2MTMxLjloLTExMy4zOXYtMTMxLjl6IiBmaWxsPSIjZjNmNWRlIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03MjcuNTcgLTMwNS42NCkiPgogICA8dXNlIHg9IjgwNi4yMzEwMiIgeT0iNDExLjAwOCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMi0xIi8+CiAgIDx1c2UgeD0iODEyLjMzMDk5IiB5PSI0MTEuMDA4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgyLTIiLz4KICAgPHVzZSB4PSI4MTkuMTgxMDMiIHk9IjQxMS4wMDgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDItMyIvPgogICA8dXNlIHg9IjgyNi4xMzA5OCIgeT0iNDExLjAwOCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMi00Ii8+CiAgIDx1c2UgeD0iODMxLjMzMDk5IiB5PSI0MTEuMDA4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgyLTUiLz4KICAgPHVzZSB4PSI4NDEuMzMwOTkiIHk9IjQxMS4wMDgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDItNiIvPgogICA8dXNlIHg9Ijg0OC40ODEwMiIgeT0iNDExLjAwOCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMi03Ii8+CiAgIDx1c2UgeD0iODU1LjczMTAyIiB5PSI0MTEuMDA4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgyLTciLz4KICAgPHVzZSB4PSI4NjIuOTgxMDIiIHk9IjQxMS4wMDgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDItOCIvPgogICA8dXNlIHg9Ijg3MS44ODA5OCIgeT0iNDExLjAwOCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMi00Ii8+CiAgIDx1c2UgeD0iODc3LjA4MDk5IiB5PSI0MTEuMDA4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgyLTkiLz4KICAgPHVzZSB4PSI4ODMuNzgxMDEiIHk9IjQxMS4wMDgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDItMTAiLz4KICA8L2c+CiAgPHBhdGggZD0ibTcwLjE5NSAxNTkuMjRjMC0yLjIxMDkgMS43OTMtNC4wMTE3IDQuMDA3OC00LjAxMTcgMi4yMTA5IDAgNC4wMDc4IDEuODAwOCA0LjAwNzggNC4wMTE3cy0xLjc5NjkgNC4wMDc4LTQuMDA3OCA0LjAwNzhjLTIuMjE0OCAwLTQuMDA3OC0xLjc5NjktNC4wMDc4LTQuMDA3OHoiIGZpbGw9IiNlYmViZWIiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CiAgPHBhdGggZD0ibTcwLjE5NSAxNTkuMjRjMC0yLjIxMDkgMS43OTMtNC4wMTE3IDQuMDA3OC00LjAxMTcgMi4yMTA5IDAgNC4wMDc4IDEuODAwOCA0LjAwNzggNC4wMTE3cy0xLjc5NjkgNC4wMDc4LTQuMDA3OCA0LjAwNzhjLTIuMjE0OCAwLTQuMDA3OC0xLjc5NjktNC4wMDc4LTQuMDA3OHoiIGZpbGw9IiNlYmViZWIiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTcyNy41NyAtMzA1LjY0KSIgZmlsbD0iI2ZmZjhiOCI+CiAgIDx1c2UgeD0iNzU0LjAzNjk5IiB5PSI2ODkuOTY1MDMiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI3NTQuMDM2OTkiIHk9IjY3MC4wOTE5OCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xNSIvPgogICA8dXNlIHg9Ijc1NC4wMzY5OSIgeT0iNjQ5LjkyMiIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xIi8+CiAgIDx1c2UgeD0iNzU0LjAzNjk5IiB5PSI2MjkuODI1OTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTYiLz4KICAgPHVzZSB4PSI3NTQuMDM2OTkiIHk9IjYxMC4yNTA5OCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xNCIvPgogICA8dXNlIHg9Ijc1NC4wMzY5OSIgeT0iNTkwLjA4MDAyIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTkiLz4KICAgPHVzZSB4PSI3NTQuMDM2OTkiIHk9IjU3MC43MjgwMyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMCIvPgogICA8dXNlIHg9Ijc1NC4wMzY5OSIgeT0iNTUwLjU1NzAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTExIi8+CiAgIDx1c2UgeD0iNzU0LjAzNjk5IiB5PSI1MzAuNjA5OTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTciLz4KICAgPHVzZSB4PSI3NTQuMDM2OTkiIHk9IjUxMC45NjEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI3NTkuNjM3MDIiIHk9IjUxMC45NjEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTIiLz4KICAgPHVzZSB4PSI3NTQuMDM2OTkiIHk9IjQ5MS4xNjE5OSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMyIvPgogICA8dXNlIHg9Ijc1OS42MzcwMiIgeT0iNDkxLjE2MTk5IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iNzU0LjAzNjk5IiB5PSI0NzEuNDM3OTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI3NTkuNjM3MDIiIHk9IjQ3MS40Mzc5OSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xNSIvPgogICA8dXNlIHg9Ijc1NC4wMzY5OSIgeT0iNDUxLjM0MjAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iNzU5LjYzNzAyIiB5PSI0NTEuMzQyMDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMSIvPgogICA8dXNlIHg9Ijc1NC4wMzY5OSIgeT0iNDMxLjg0MSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMyIvPgogICA8dXNlIHg9Ijc1OS42MzcwMiIgeT0iNDMxLjg0MSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xNiIvPgogICA8dXNlIHg9Ijc1NC4wMzY5OSIgeT0iNDExLjgyMDAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iNzU5LjYzNzAyIiB5PSI0MTEuODIwMDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTQiLz4KICAgPHVzZSB4PSI3NTQuMDM2OTkiIHk9IjM5Mi4zMTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI3NTkuNjM3MDIiIHk9IjM5Mi4zMTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtOSIvPgogICA8dXNlIHg9Ijc1NC4wMzY5OSIgeT0iMzcyLjE0ODAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iNzU5LjYzNzAyIiB5PSIzNzIuMTQ4MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTAiLz4KICAgPHVzZSB4PSI3NTQuMDM2OTkiIHk9IjM1Mi40MjQ5OSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMyIvPgogICA8dXNlIHg9Ijc1OS42MzcwMiIgeT0iMzUyLjQyNDk5IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTExIi8+CiAgIDx1c2UgeD0iOTMxLjY3MiIgeT0iNjkwLjA4MzAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iOTMxLjY3MiIgeT0iNjcwLjIxMDAyIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTE1Ii8+CiAgIDx1c2UgeD0iOTMxLjY3MiIgeT0iNjUwLjAzOTk4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEiLz4KICAgPHVzZSB4PSI5MzEuNjcyIiB5PSI2MjkuOTQyOTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTYiLz4KICAgPHVzZSB4PSI5MzEuNjcyIiB5PSI2MTAuMzY3OTgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTQiLz4KICAgPHVzZSB4PSI5MzEuNjcyIiB5PSI1OTAuMTk4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTkiLz4KICAgPHVzZSB4PSI5MzEuNjcyIiB5PSI1NzAuODQ2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTAiLz4KICAgPHVzZSB4PSI5MzEuNjcyIiB5PSI1NTAuNjc0OTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTEiLz4KICAgPHVzZSB4PSI5MzEuNjcyIiB5PSI1MzAuNzI4MDMiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTciLz4KICAgPHVzZSB4PSI5MjYuMDUyOTgiIHk9IjUxMS4wNzgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI5MzEuNjUzMDIiIHk9IjUxMS4wNzgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTIiLz4KICAgPHVzZSB4PSI5MjYuMDUyOTgiIHk9IjQ5MS4yOCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMyIvPgogICA8dXNlIHg9IjkzMS42NTMwMiIgeT0iNDkxLjI4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iOTI2LjA1Mjk4IiB5PSI0NzEuNTU2IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iOTMxLjY1MzAyIiB5PSI0NzEuNTU2IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTE1Ii8+CiAgIDx1c2UgeD0iOTI2LjA1Mjk4IiB5PSI0NTEuNDU5OTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI5MzEuNjUzMDIiIHk9IjQ1MS40NTk5OSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xIi8+CiAgIDx1c2UgeD0iOTI2LjA1Mjk4IiB5PSI0MzEuOTU5MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI5MzEuNjUzMDIiIHk9IjQzMS45NTkwMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xNiIvPgogICA8dXNlIHg9IjkyNi4wNTI5OCIgeT0iNDExLjkzNzAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEzIi8+CiAgIDx1c2UgeD0iOTMxLjY1MzAyIiB5PSI0MTEuOTM3MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTQiLz4KICAgPHVzZSB4PSI5MjYuMDUyOTgiIHk9IjM5Mi40MzcwMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMyIvPgogICA8dXNlIHg9IjkzMS42NTMwMiIgeT0iMzkyLjQzNzAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTkiLz4KICAgPHVzZSB4PSI5MjYuMDUyOTgiIHk9IjM3Mi4yNjU5OSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMyIvPgogICA8dXNlIHg9IjkzMS42NTMwMiIgeT0iMzcyLjI2NTk5IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGgwLTEwIi8+CiAgIDx1c2UgeD0iOTI2LjA1Mjk4IiB5PSIzNTIuNTQxOTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDAtMTMiLz4KICAgPHVzZSB4PSI5MzEuNjUzMDIiIHk9IjM1Mi41NDE5OSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMC0xMSIvPgogIDwvZz4KICA8ZyBzdHJva2U9IiMwMDAiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+CiAgIDxnIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0ibTEwNS4zOCAyNTUuNjJ2MTQuMTcyaC01LjY2OHYtMTQuMTcyeiIgZmlsbD0iI2ViZWJlYiIvPgogICAgPHBhdGggZD0ibTk5LjcxNSAyNTcuODZoNS42Njh2OS42OTkyaC01LjY2OHoiIGZpbGw9IiM3YTdhN2EiIHN0cm9rZS13aWR0aD0iLjYiLz4KICAgIDxwYXRoIGQ9Im0xOTEuMDQgMjU1LjY2djE0LjE3MmgtNS42Njh2LTE0LjE3MnoiIGZpbGw9IiNlYmViZWIiLz4KICAgIDxwYXRoIGQ9Im0xODUuMzcgMjU3Ljg5aDUuNjY4djkuNjk5MmgtNS42Njh6IiBmaWxsPSIjN2E3YTdhIiBzdHJva2Utd2lkdGg9Ii42Ii8+CiAgICA8cGF0aCBkPSJtMTAwLjIxIDIyMC4xOXYxNC4xNzJoLTUuNjY4di0xNC4xNzJ6IiBmaWxsPSIjZWJlYmViIi8+CiAgICA8cGF0aCBkPSJtOTQuNTM5IDIyMi40Mmg1LjY2OHY5LjY5OTJoLTUuNjY4eiIgZmlsbD0iIzdhN2E3YSIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICAgPHBhdGggZD0ibTExMC4zMSAyMjAuMTl2MTQuMTcyaC01LjY3MTl2LTE0LjE3MnoiIGZpbGw9IiNlYmViZWIiLz4KICAgIDxwYXRoIGQ9Im0xMDQuNjQgMjIyLjQyaDUuNjY4djkuNjk5MmgtNS42Njh6IiBmaWxsPSIjN2E3YTdhIiBzdHJva2Utd2lkdGg9Ii42Ii8+CiAgICA8cGF0aCBkPSJtMTIwLjIzIDIyMC4xOXYxNC4xNzJoLTUuNjY4di0xNC4xNzJ6IiBmaWxsPSIjZWJlYmViIi8+CiAgICA8cGF0aCBkPSJtMTE0LjU2IDIyMi40Mmg1LjY2OHY5LjY5OTJoLTUuNjY4eiIgZmlsbD0iIzdhN2E3YSIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICAgPHBhdGggZD0ibTEzMC4xNSAyMjAuMTl2MTQuMTcyaC01LjY2OHYtMTQuMTcyeiIgZmlsbD0iI2ViZWJlYiIvPgogICAgPHBhdGggZD0ibTEyNC40OCAyMjIuNDJoNS42NzE5djkuNjk5MmgtNS42NzE5eiIgZmlsbD0iIzdhN2E3YSIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICAgPHBhdGggZD0ibTE0MC4wNyAyMjAuMTl2MTQuMTcyaC01LjY2OHYtMTQuMTcyeiIgZmlsbD0iI2ViZWJlYiIvPgogICAgPHBhdGggZD0ibTEzNC40IDIyMi40Mmg1LjY3MTl2OS42OTkyaC01LjY3MTl6IiBmaWxsPSIjN2E3YTdhIiBzdHJva2Utd2lkdGg9Ii42Ii8+CiAgICA8cGF0aCBkPSJtOTAuMjg5IDIyMC4xOXYxNC4xNzJoLTUuNjcxOXYtMTQuMTcyeiIgZmlsbD0iI2ViZWJlYiIvPgogICAgPHBhdGggZD0ibTgzLjY1MiAyMjIuNDJoNy41OTc2djkuNjk5MmgtNy41OTc2eiIgZmlsbD0iI2UxZGVhOCIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICA8L2c+CiAgIDxwYXRoIGQ9Im0xNDkuOTkgMjIwLjE5djE0LjE3MmgtNS42Njh2LTE0LjE3MnoiIGZpbGw9IiNlYmViZWIiLz4KICAgPHBhdGggZD0ibTE0NC4zMiAyMjIuNDJoNS42NzE5djkuNjk5MmgtNS42NzE5eiIgZmlsbD0iI2UxZGVhOCIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICA8ZyBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgIDxwYXRoIGQ9Im0xNTcuNDkgMjIwLjE5aDE0LjE3NnY1LjY2OGgtMTQuMTc2eiIgZmlsbD0iI2ViZWJlYiIvPgogICAgPHBhdGggZD0ibTE1OS43MyAyMjUuODZ2LTUuNjY4aDkuNjk5MnY1LjY2OHoiIGZpbGw9IiM3YTdhN2EiIHN0cm9rZS13aWR0aD0iLjYiLz4KICAgIDxwYXRoIGQ9Im0xNTcuNDkgMjI4LjY5aDE0LjE3NnY1LjY2OGgtMTQuMTc2eiIgZmlsbD0iI2ViZWJlYiIvPgogICAgPHBhdGggZD0ibTE1OS43MyAyMzQuMzZ2LTUuNjcxOWg5LjY5OTJ2NS42NzE5eiIgZmlsbD0iIzdhN2E3YSIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICAgPHBhdGggZD0ibTYzLjM1NSAyMjAuMTloMTQuMTc2djUuNjY4aC0xNC4xNzZ6IiBmaWxsPSIjZWJlYmViIi8+CiAgICA8cGF0aCBkPSJtNjUuNTk0IDIyNS44NnYtNS42NzE5aDkuNjk5MnY1LjY3MTl6IiBmaWxsPSIjZGVjNzdhIiBzdHJva2Utd2lkdGg9Ii42Ii8+CiAgICA8cGF0aCBkPSJtNjMuMzU1IDIyOC42OWgxNC4xNzZ2NS42NjhoLTE0LjE3NnoiIGZpbGw9IiNlYmViZWIiLz4KICAgIDxwYXRoIGQ9Im02NS41OTQgMjM0LjM2di01LjY3MTloOS42OTkydjUuNjcxOXoiIGZpbGw9IiNkZWM3N2EiIHN0cm9rZS13aWR0aD0iLjYiLz4KICAgIDxwYXRoIGQ9Im00OC42OTEgMzYzLjM0aDE0LjE3MnY1LjY2OGgtMTQuMTcyeiIgZmlsbD0iI2ViZWJlYiIvPgogICAgPHBhdGggZD0ibTUwLjkzIDM2OXYtNS42NjhoOS42OTkydjUuNjY4eiIgZmlsbD0iIzdhN2E3YSIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICAgPHBhdGggZD0ibTE3My40MSAzNjMuMzRoMTQuMTc2djUuNjY4aC0xNC4xNzZ6IiBmaWxsPSIjZWJlYmViIi8+CiAgICA8cGF0aCBkPSJtMTc1LjY1IDM2OXYtNS42NjhoOS42OTkydjUuNjY4eiIgZmlsbD0iIzdhN2E3YSIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICAgPHBhdGggZD0ibTE1Mi4xNiAzNjMuMzRoMTQuMTcydjUuNjY4aC0xNC4xNzJ6IiBmaWxsPSIjZWJlYmViIi8+CiAgICA8cGF0aCBkPSJtMTU0LjM5IDM2OXYtNS42NjhoOS42OTUzdjUuNjY4eiIgZmlsbD0iIzdhN2E3YSIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICAgPHBhdGggZD0ibTY5Ljk0OSAzNjMuMzRoMTQuMTc2djUuNjY4aC0xNC4xNzZ6IiBmaWxsPSIjZWJlYmViIi8+CiAgICA8cGF0aCBkPSJtNzIuMTg4IDM3MC41MXYtOC42NzE5aDkuNjk5MnY4LjY3MTl6IiBmaWxsPSIjMjYyNjI2IiBzdHJva2Utd2lkdGg9Ii42Ii8+CiAgIDwvZz4KICA8L2c+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTcyNy41NyAtMzA1LjY0KSIgZmlsbD0iI2ZmZiI+CiAgIDx1c2UgeD0iODA2LjQ1ODY4IiB5PSI3MTMuNzQxMDMiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDMtMSIvPgogICA8dXNlIHg9IjgwNi40NTg2OCIgeT0iNzA4LjU5MSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoMy0yIi8+CiAgIDx1c2UgeD0iODkwLjY5MzQ4IiB5PSI3MTguMTg3MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDQtMSIvPgogICA8dXNlIHg9Ijg5MC42OTM0MiIgeT0iNzEyLjMzNjk4IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg0LTIiLz4KICAgPHVzZSB4PSI4OTAuNjkzNDIiIHk9IjcwNi4zODcwMiIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNC0yIi8+CiAgIDx1c2UgeD0iODkwLjY5MzQyIiB5PSI3MDAuNDM3MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDQtMyIvPgogICA8dXNlIHg9Ijc5NS4xNDQ5NiIgeT0iNTEwLjg3NjAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg1LTEiLz4KICAgPHVzZSB4PSI4MDEuNzk0OTgiIHk9IjUxMC44NzYwMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNS0yIi8+CiAgIDx1c2UgeD0iODA4LjM0NDk3IiB5PSI1MTAuODc2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDUtMyIvPgogICA8dXNlIHg9IjgxMS4xOTQ5NSIgeT0iNTEwLjg3NjAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg1LTQiLz4KICAgPHVzZSB4PSI4MTguODQ0OTciIHk9IjUxMC44NzYwMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNS02Ii8+CiAgIDx1c2UgeD0iODI0LjU0NDk4IiB5PSI1MTAuODc2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDUtNyIvPgogICA8dXNlIHg9IjgzMC43NDUiIHk9IjUxMC44NzYwMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNS04Ii8+CiAgIDx1c2UgeD0iODM2Ljk5NSIgeT0iNTEwLjg3NjAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg1LTkiLz4KICAgPHVzZSB4PSI4NDIuOTk1IiB5PSI1MTAuODc2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDUtMTAiLz4KICAgPHVzZSB4PSI4NTEuMjk0OTgiIHk9IjUxMC44NzYwMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNS0xIi8+CiAgIDx1c2UgeD0iODU3Ljk0NDk1IiB5PSI1MTAuODc2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDUtNiIvPgogICA8dXNlIHg9Ijg2My42NDQ5NiIgeT0iNTEwLjg3NjAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg1LTExIi8+CiAgIDx1c2UgeD0iODY5LjU0NDk4IiB5PSI1MTAuODc2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDUtMTIiLz4KICAgPHVzZSB4PSI4NzUuNzQ1IiB5PSI1MTAuODc2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDUtMyIvPgogICA8dXNlIHg9Ijg3OC41OTQ5NyIgeT0iNTEwLjg3NjAxIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg1LTQiLz4KICAgPHVzZSB4PSI4ODYuMjQ1IiB5PSI1MTAuODc2MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDUtMTEiLz4KICAgPHVzZSB4PSI4OTIuMTQ0OTYiIHk9IjUxMC44NzYwMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNS0xMyIvPgogIDwvZz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNzI3LjU3IC0zMDUuNjQpIiBmaWxsPSIjZTNlM2UzIj4KICAgPHVzZSB4PSI4MDkuNzkzMDMiIHk9IjY0MC4xMzcwMiIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNi0xIi8+CiAgIDx1c2UgeD0iODA5Ljc5MzAzIiB5PSI2MzYuMzg3MDIiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDYtMiIvPgogICA8dXNlIHg9IjgwOS43OTMwMyIgeT0iNjMxLjI4Njk5IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg2LTMiLz4KICAgPHVzZSB4PSI4MDkuNzkzMDMiIHk9IjYyNy4zMzY5OCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNi00Ii8+CiAgIDx1c2UgeD0iODA5Ljc5MzAzIiB5PSI2MjMuNTM2OTkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDYtNCIvPgogICA8dXNlIHg9IjgwOS43OTMwMyIgeT0iNjE5LjczNyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2dseXBoNi00Ii8+CiAgIDx1c2UgeD0iODA5Ljc5MzAzIiB5PSI2MTUuOTM3MDEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHhsaW5rOmhyZWY9IiNnbHlwaDYtNSIvPgogIDwvZz4KIDwvZz4KIDxwYXRoIGQ9Im0xNDcuOSA2LjE3MTloMTQuMTc2djE3LjAwOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiLz4KIDxnPgogIDxnIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+CiAgIDxnPgogICAgPHBhdGggZD0ibTE0Ni44MiAyMy4xOGMwLTAuNTk3NjUgMC40ODQzOC0xLjA4NTkgMS4wODItMS4wODU5IDAuNTk3NjUgMCAxLjA4NTkgMC40ODgyOSAxLjA4NTkgMS4wODU5IDAgMC41OTc2Ni0wLjQ4ODI4IDEuMDgyLTEuMDg1OSAxLjA4Mi0wLjU5NzY2IDAtMS4wODItMC40ODQzNy0xLjA4Mi0xLjA4MnoiIGZpbGw9IiNlZWU4YWUiIHN0cm9rZT0iI2VlZThhZSIvPgogICAgPHBhdGggZD0ibTE2MC45OSAyMy4xOGMwLTAuNTk3NjUgMC40ODgyOC0xLjA4NTkgMS4wODU5LTEuMDg1OSAwLjU5NzY1IDAgMS4wODIgMC40ODgyOSAxLjA4MiAxLjA4NTkgMCAwLjU5NzY2LTAuNDg0MzggMS4wODItMS4wODIgMS4wODItMC41OTc2NiAwLTEuMDg1OS0wLjQ4NDM3LTEuMDg1OS0xLjA4MnoiIGZpbGw9IiNlZWU4YWUiIHN0cm9rZT0iI2VlZThhZSIvPgogICAgPHBhdGggZD0ibTkyLjYyOSAzNjMuMzRoMTQuMTcydjUuNjY4aC0xNC4xNzJ6IiBmaWxsPSIjZWJlYmViIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgPC9nPgogICA8cGF0aCBkPSJtOTQuODY3IDM2OXYtNS42NjhoOS42OTUzdjUuNjY4eiIgZmlsbD0iI2RlYzc3YSIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9Ii42Ii8+CiAgPC9nPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03MjcuNTcgLTMwNS42NCkiIGZpbGw9IiNmZmYiPgogICA8dXNlIHg9Ijg0NC43NzE5NyIgeT0iMzQxLjgzNDk5IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bGluazpocmVmPSIjZ2x5cGg3LTEiLz4KICA8L2c+CiA8L2c+CiA8ZyBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgogIDxwYXRoIGQ9Im0xNDcuOSA2LjE3MTloLTExLjMzNnYxNC44MjhoLTE0LjE3NnYtMTQuODI4aC0xNC4xNzJ2MTQuODI4aC0xOS44NDR2LTkuODg2N2gtMTUuMTAydjE0LjU5NCA4LjgwODYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMCIvPgogIDxwYXRoIGQ9Im0xMDguNCAzODcuNDN2Mi44MzU5aDE5LjQ3N3YtMi44MzU5IiBmaWxsPSIjNWM1YzVjIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iLjgiLz4KICA8cGF0aCBkPSJtODUuMjQyIDIyNy4yN2MwLTEuMjE4OCAwLjk5MjE5LTIuMjEwOSAyLjIxMDktMi4yMTA5IDEuMjE0OCAwIDIuMjA3IDAuOTkyMTkgMi4yMDcgMi4yMTA5cy0wLjk5MjE5IDIuMjA3LTIuMjA3IDIuMjA3Yy0xLjIxODggMC0yLjIxMDktMC45ODgyOC0yLjIxMDktMi4yMDd6IiBmaWxsPSJub25lIiBzdHJva2U9IiNlMWJkNjgiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iLjgiLz4KICA8Zz4KICAgPHBhdGggZD0ibTE0OS45OSAyMjAuMTl2MTQuMTcyaC01LjY2OHYtMTQuMTcyeiIgZmlsbD0iI2ViZWJlYiIgc3Ryb2tlPSIjMDAwIi8+CiAgIDxwYXRoIGQ9Im0xNDMuMzYgMjIyLjQyaDcuNTkzOHY5LjY5OTJoLTcuNTkzOHoiIGZpbGw9IiNlMWRlYTgiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIuNiIvPgogICA8cGF0aCBkPSJtMTQ0Ljk1IDIyNy4yN2MwLTEuMjE4OCAwLjk5MjE5LTIuMjEwOSAyLjIxMDktMi4yMTA5czIuMjA3IDAuOTkyMTkgMi4yMDcgMi4yMTA5LTAuOTg4MjggMi4yMDctMi4yMDcgMi4yMDctMi4yMTA5LTAuOTg4MjgtMi4yMTA5LTIuMjA3eiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZTFiZDY4IiBzdHJva2Utd2lkdGg9Ii44Ii8+CiAgPC9nPgogPC9nPgo8L3N2Zz4K</data>
+      <newScale>16</newScale>
+      <sizingMode>Scale</sizingMode>
+    </diylc.misc.SVGImage>
+    <diylc.connectivity.HookupWire>
+      <name>W7</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="2.86" y="1.62"/>
+        <point x="2.3" y="1.5"/>
+        <point x="3.0" y="0.6"/>
+        <point x="2.4" y="0.7"/>
+      </controlPoints2>
+      <color hex="ff0000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.Label>
+      <name>L1</name>
+      <point x="2.47" y="0.64"/>
+      <text>5V</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="ff0000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L2</name>
+      <point x="2.5" y="0.74"/>
+      <text>SCL</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="009933"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L3</name>
+      <point x="2.5" y="0.85"/>
+      <text>GND</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="0033ff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L4</name>
+      <point x="2.5" y="0.96"/>
+      <text>SDA</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="cc00cc"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.connectivity.HookupWire>
+      <name>W9</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="3.74" y="0.27"/>
+        <point x="2.8" y="0.19"/>
+        <point x="3.15" y="0.73"/>
+        <point x="2.4" y="0.8"/>
+      </controlPoints2>
+      <color hex="009933"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W11</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="2.86" y="1.54"/>
+        <point x="2.44" y="1.4"/>
+        <point x="3.05" y="0.85"/>
+        <point x="2.4" y="0.9"/>
+      </controlPoints2>
+      <color hex="0000ff"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W12</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="3.75" y="0.52"/>
+        <point x="3.18" y="0.38"/>
+        <point x="3.02" y="1.08"/>
+        <point x="2.4" y="1.0"/>
+      </controlPoints2>
+      <color hex="cc00cc"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.Label>
+      <name>L5</name>
+      <point x="2.95" y="1.62"/>
+      <text>VIN</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="ff0000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L6</name>
+      <point x="3.87" y="0.26"/>
+      <text>D22</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="009933"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L7</name>
+      <point x="3.87" y="0.52"/>
+      <text>D21</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="cc00cc"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L8</name>
+      <point x="2.96" y="1.53"/>
+      <text>GND</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="0000ff"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+  </components>
+  <groups/>
+  <lockedLayers/>
+  <lockedComponents>
+    <diylc.boards.PerfBoard reference="../../components/diylc.boards.PerfBoard"/>
+  </lockedComponents>
+  <hiddenLayers/>
+  <font name="Dialog.plain" size="14" style="0"/>
+</project>
