@@ -31,7 +31,7 @@ Q1 is an N-channel E-MOSFET which is used to enable or disable power to the Whea
 
 ![Amplifier scheme](./assets/Scheme-OPAMP.svg)
 
-For reading the Wheatstone bridge, a LM324 or TL074 OPAMP is used. The two midpoints of the Wheatstone bridge first go through a voltage follower. A voltage follower acts as a buffer and has a very high input impedance and a very low output impedance. These characteristics are very useful to give a reliable signal to the differential amplifier. A high input impedance will result in a low current flow from the Wheatstone bridge thus almost no voltage drop will appear. A low output impedance makes the voltage follower ideal to read the voltage from.
+For reading the Wheatstone bridge, an LM324 or TL074 OPAMP is used. The two midpoints of the Wheatstone bridge first go through a voltage follower. A voltage follower acts as a buffer and has a very high input impedance and a very low output impedance. These characteristics are very useful to give a reliable signal to the differential amplifier. A high input impedance will result in a low current flow from the Wheatstone bridge thus almost no voltage drop will appear. A low output impedance makes the voltage follower ideal to read the voltage from.
 A differential amplifier outputs a voltage proportional to the difference in voltage from its two inputs. R3 / R1 is the differential gain and by changing these values we can change the sensitivity of the sensor.
 
 <img src="https://render.githubusercontent.com/render/math?math=V_%7Bout%7D=%5Cfrac%7BR_10%7D%7BR_7%7D(V_2-V_1)%20"/>
