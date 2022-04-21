@@ -7,7 +7,7 @@
   </fileVersion>
   <title>SalinitySensorComponentPlacement</title>
   <author>Daan Dekoning</author>
-  <width value="100.0" unit="mm"/>
+  <width value="120.0" unit="mm"/>
   <height value="48.26" unit="mm"/>
   <gridSpacing value="0.01" unit="in"/>
   <dotSpacing>1</dotSpacing>
@@ -1127,6 +1127,26 @@
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
     </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace4</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="4.26" y="0.15"/>
+        <point x="4.26" y="1.74"/>
+        <point x="4.26" y="0.945"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="ff0000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
     <diylc.misc.SVGImage>
       <name>Svg1</name>
       <alpha>127</alpha>
@@ -1136,6 +1156,54 @@
       <newScale>16</newScale>
       <sizingMode>Scale</sizingMode>
     </diylc.misc.SVGImage>
+    <diylc.passive.Resistor>
+      <name>R9</name>
+      <alpha>127</alpha>
+      <length value="0.4" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="3.75" y="0.52"/>
+        <point x="4.27" y="0.52"/>
+        <point x="4.01" y="0.52"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="4.7" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R10</name>
+      <alpha>127</alpha>
+      <length value="0.4" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="3.75" y="0.27"/>
+        <point x="4.27" y="0.27"/>
+        <point x="4.01" y="0.27"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>BOTH</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="4.7" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
     <diylc.connectivity.HookupWire>
       <name>W7</name>
       <alpha>127</alpha>
@@ -1244,6 +1312,24 @@
         <point x="2.4" y="1.0"/>
       </controlPoints2>
       <color hex="cc00cc"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W14</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="4.27" y="1.55"/>
+        <point x="3.93" y="1.58"/>
+        <point x="4.35" y="1.52"/>
+        <point x="3.75" y="1.62"/>
+      </controlPoints2>
+      <color hex="ff0000"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
