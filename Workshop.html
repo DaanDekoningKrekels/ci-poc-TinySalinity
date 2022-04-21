@@ -298,7 +298,7 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
   background-color: #fcf8ed;
 }
 ;">
-<h2>Reading the Sensor</h2>
+<h2>Send to serial monitor</h2>
 <pre><code class="language-C++"><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap><span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span> </span>{
   <span class="hljs-comment">// put your setup code here, to run once:</span>
 
@@ -317,14 +317,14 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
   background-color: #fcf8ed;
 }
 ;">
-<h2>Reading the Sensor</h2>
+<h2>Send to serial monitor</h2>
 <pre><code class="language-C++"><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap><span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span> </span>{
-  Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">115200</span>); <span class="hljs-comment">// Open the serial port at 9600 baud</span>
+  Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">115200</span>); <span class="hljs-comment">// Open the serial port at 115200 baud</span>
 }
 
-<span class="hljs-comment">/* Send &quot;Hello world!&quot; via serial every second. */</span>
+<span class="hljs-comment">/* Send &quot;Salamu, Dunia!&quot; via serial every second. */</span>
 <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span> </span>{
-  Serial.<span class="hljs-built_in">println</span>(<span class="hljs-string">&quot;Hello world!&quot;</span>); <span class="hljs-comment">// Send text over the serial port</span>
+  Serial.<span class="hljs-built_in">println</span>(<span class="hljs-string">&quot;Salamu, Dunia!&quot;</span>); <span class="hljs-comment">// Send text over the serial port</span>
   <span class="hljs-built_in">delay</span>(<span class="hljs-number">1000</span>); <span class="hljs-comment">// Wait 1000ms or 1s</span>
 }
 </span></span></foreignObject></svg></code></pre>
