@@ -296,26 +296,6 @@
       <layer>_1</layer>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <name>Trace15</name>
-      <alpha>127</alpha>
-      <points>
-        <point x="1.2" y="0.4"/>
-        <point x="1.2" y="0.6"/>
-        <point x="1.2" y="0.5"/>
-      </points>
-      <bodyColor hex="ffffff"/>
-      <borderColor hex="000000"/>
-      <labelColor hex="000000"/>
-      <leadColor hex="000000"/>
-      <display>NAME</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <hideShortLeads>false</hideShortLeads>
-      <thickness value="1.0" unit="mm"/>
-      <layer>_1</layer>
-    </diylc.connectivity.CopperTrace>
-    <diylc.connectivity.CopperTrace>
       <name>Trace16</name>
       <alpha>127</alpha>
       <points>
@@ -592,14 +572,6 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
-      <name>Turret3</name>
-      <size value="0.08" unit="in"/>
-      <holeSize value="0.02" unit="in"/>
-      <color hex="e0c04c"/>
-      <point x="1.2" y="0.6"/>
-      <value></value>
-    </diylc.connectivity.Turret>
-    <diylc.connectivity.Turret>
       <name>Turret4</name>
       <size value="0.08" unit="in"/>
       <holeSize value="0.02" unit="in"/>
@@ -740,9 +712,9 @@
       <length value="0.35" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="1.0" y="0.5"/>
+        <point x="1.1" y="0.5"/>
         <point x="0.3" y="0.5"/>
-        <point x="0.65" y="0.5"/>
+        <point x="0.7" y="0.5"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -1147,6 +1119,26 @@
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
     </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace30</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.0" y="1.3"/>
+        <point x="0.91" y="1.3"/>
+        <point x="0.955" y="1.3"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
     <diylc.misc.SVGImage>
       <name>Svg1</name>
       <alpha>127</alpha>
@@ -1382,6 +1374,34 @@
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
+    <diylc.connectivity.CopperTrace>
+      <name>Trace15</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.2" y="0.4"/>
+        <point x="1.2" y="0.6"/>
+        <point x="1.2" y="0.5"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CopperTrace>
+    <diylc.connectivity.Turret>
+      <name>Turret3</name>
+      <size value="0.08" unit="in"/>
+      <holeSize value="0.02" unit="in"/>
+      <color hex="e0c04c"/>
+      <point x="1.2" y="0.6"/>
+      <value></value>
+    </diylc.connectivity.Turret>
   </components>
   <groups/>
   <lockedLayers/>
