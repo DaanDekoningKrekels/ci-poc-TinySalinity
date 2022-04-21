@@ -144,7 +144,7 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
 
 ---
 
-## Reading the Sensor
+## Send to serial monitor
 
 ```C++
 void setup() {
@@ -160,7 +160,7 @@ void loop() {
 
 ---
 
-## Reading the Sensor
+## Send to serial monitor
 
 ```C++
 void setup() {
