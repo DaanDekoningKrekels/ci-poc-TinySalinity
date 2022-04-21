@@ -167,9 +167,9 @@ void setup() {
   Serial.begin(115200); // Open the serial port at 115200 baud
 }
 
-/* Send "Vipi dunia!" via serial every second. */
+/* Send "Salamu, Dunia!" via serial every second. */
 void loop() {
-  Serial.println("Vipi dunia!"); // Send text over the serial port
+  Serial.println("Salamu, Dunia!"); // Send text over the serial port
   delay(1000); // Wait 1000ms or 1s
 }
 ```
