@@ -46,3 +46,12 @@ Connected to the differential amplifier we have another voltage follower to give
 An Atmel ATtiny MCU will be used to read the output of the sensor and send it to another device, for example an ESP32 or Arduino. The ATtiny has a 10bit ADC (Analog to Digital Converter) which will be used to read the output voltage of the OPAMP. The ADC maps the input voltage to a number between 0 and 1024 where 1024 is 5V. To make the measurements more reliable a moving average filter is implemented on the ATtiny which outputs the average of a series of ADC readings. 
 I2C is the communic&ation protocol that will be used to communicate with the ATtiny. <br/>
 See [Sensor code](./Sensor%20code/) for more details on the ATtiny and the code.
+
+## Prototype
+
+The current prototype of this board is made on a perfboard. This is a more stable way of testing than using a breadboard. There are three working prototype boards made by the students of KIST in our [workshop](./Workshop.md).
+
+![Salinity Sensor prototype photo](assets/SalinitySensorPhoto.png)
+
+
+
