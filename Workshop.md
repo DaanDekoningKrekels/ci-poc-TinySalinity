@@ -59,7 +59,7 @@ style: |
 
 - Voltage followers
   - Stable reading
-- Differnetial amplifier
+- Differential amplifier
   - <img alt="Vout=(R10/R7)*(V2-V1)" height="40" src="https://render.githubusercontent.com/render/math?math=V_%7Bout%7D=%5Cfrac%7BR_10%7D%7BR_7%7D(V_2-V_1)%20"/>
 
 ---
@@ -135,7 +135,7 @@ Source: https://microcontrollerslab.com/install-esp32-arduino-ide/
 - SDA = Serial Data Line
 - SCL = Serial Clock Line
 - Every target has his own address
-
+''
 ![bg right fit I2C example connection](./assets/I2C_controller-target.svg)
 
 ---
