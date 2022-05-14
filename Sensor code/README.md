@@ -2,17 +2,31 @@
 
 The Atmel ATTiny 85 microcontroller will read the value of the sensor and send it to the main microcontroller via I²C. The main MCU can send this data to a server for example.
 
+<figure>
+<img src="../assets/ATtiny.png" alt="ATtiny MCU IC"/>
+<figcaption >Figure 1: ATtiny MCU IC</figcaption>
+</figure>
+
 ## Programming the ATTiny
 
 Firstly we will have to add the ATTiny to our Arduino IDE. 
 In the Arduino IDE, go to `File` -> `Preferences` and add the following url to `Additional Boards Manager URLs` and save with `Ok`.
 `https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json`
+
 To install the ATTiny board, got to `Tools` -> `Board:` and choose `Board Manager` Scroll down until you see `attiny by David A. Mellis`. Click on the `Install` button.
+
+Now you will be able to see the ATtiny listed in the Board menu.
+
+The following guide will explain how to program the ATtiny with another Arduino. 
+
+https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
+
 
 ### The Bootloader
 
 If the ATTiny is still new there won't be any bootloader installed. We need a bootloader to be able to put our code on the ATTiny.
 Follow this guide to burn the bootloader to your ATTiny.
+
 https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
 
 
